@@ -1,561 +1,557 @@
-LGA,Dwelling Records,add
-Armidale Regional,12955,
-Ballina,20889,
-Balranald,1091,
-Bathurst Regional,18458,
-Bayside (NSW),74840,
-Bega Valley,18867,
-Bellingen,6390,
-Berrigan,4265,
-Blacktown,133984,
-Bland,3107,
-Blayney,3246,
-Blue Mountains,35239,
-Bogan,1306,
-Bourke,1317,
-Brewarrina,740,
-Broken Hill,9591,
-Burwood,16201,
-Byron,16996,
-Cabonne,5895,
-Camden,39601,
-Campbelltown (NSW),63128,
-Canada Bay,39121,
-Canterbury-Bankstown,133438,
-Carrathool,1312,
-Central Coast (NSW),152870,
-Central Darling,1065,
-Cessnock,25812,
-Clarence Valley,26143,
-Cobar,2320,
-Coffs Harbour,34696,
-Coolamon,1974,
-Coonamble,1825,
-Cootamundra-Gundagai Regional,5510,
-Cowra,6267,
-Cumberland,83189,
-Dubbo Regional,22823,
-Dungog,4224,
-Edward River,4252,
-Eurobodalla,24600,
-Fairfield,67658,
-Federation,6546,
-Forbes,4373,
-Georges River,58429,
-Gilgandra,2137,
-Glen Innes Severn,4610,
-Goulburn Mulwaree,14739,
-Greater Hume Shire,4846,
-Griffith,10833,
-Gunnedah,5842,
-Gwydir,2443,
-Hawkesbury,25523,
-Hay,1552,
-Hilltops,9220,
-Hornsby,55952,
-Hunters Hill,5323,
-Inner West,85462,
-Inverell,8137,
-Junee,2519,
-Kempsey,14292,
-Kiama,10785,
-Ku-ring-gai,45894,
-Kyogle,4688,
-Lachlan,3014,
-Lake Macquarie,88908,
-Lane Cove,17340,
-Leeton,4705,
-Lismore,19781,
-Lithgow,10236,
-Liverpool,77895,
-Liverpool Plains,3694,
-Lockhart,1417,
-Maitland,35456,
-Mid-Coast,50474,
-Mid-Western Regional,12262,
-Moree Plains,6230,
-Mosman,13410,
-Murray River,6268,
-Murrumbidgee,1647,
-Muswellbrook,7333,
-Nambucca Valley,10016,
-Narrabri,5997,
-Narrandera,2694,
-Narromine,2851,
-Newcastle,74585,
-North Sydney,39034,
-Northern Beaches,105115,
-Oberon,2828,
-Orange,18706,
-Parkes,6697,
-Parramatta,106654,
-Penrith,81250,
-Port Macquarie-Hastings,40066,
-Port Stephens,35699,
-Queanbeyan-Palerang Regional,26549,
-Randwick,59965,
-Richmond Valley,10692,
-Ryde,55742,
-Shellharbour,29884,
-Shoalhaven,58799,
-Singleton,9838,
-Snowy Monaro Regional,12251,
-Snowy Valleys,7075,
-Strathfield,18287,
-Sutherland Shire,90981,
-Sydney,124114,
-Tamworth Regional,27725,
-Temora,2926,
-Tenterfield,3968,
-The Hills Shire,64080,
-Tweed,44661,
-Upper Hunter Shire,6793,
-Upper Lachlan Shire,4584,
-Uralla,2759,
-Wagga Wagga,28244,
-Walcha,1638,
-Walgett,2865,
-Warren,1228,
-Warrumbungle Shire,4739,
-Waverley,32850,
-Weddin,1869,
-Wentworth,3457,
-Willoughby,31175,
-Wingecarribee,23623,
-Wollondilly,18918,
-Wollongong,89476,
-Woollahra,26588,
-Yass Valley,6823,
-Unincorporated NSW,549,
-Migratory - Offshore - Shipping (NSW),34,
-Alpine,7271,
-Ararat,5509,
-Ballarat,50347,
-Banyule,53031,
-Bass Coast,28981,
-Baw Baw,24522,
-Bayside (Vic.),43102,
-Benalla,7211,
-Boroondara,72924,
-Brimbank,71871,
-Buloke,3397,
-Campaspe,17840,
-Cardinia,43533,
-Casey,122674,
-Central Goldfields,7004,
-Colac Otway,12460,
-Corangamite,7897,
-Darebin,68366,
-East Gippsland,26078,
-Frankston,58890,
-Gannawarra,5326,
-Glen Eira,66235,
-Glenelg,10173,
-Golden Plains,9408,
-Greater Bendigo,53173,
-Greater Dandenong,58198,
-Greater Geelong,120823,
-Greater Shepparton,28885,
-Hepburn,9511,
-Hindmarsh,3110,
-Hobsons Bay,39336,
-Horsham,9638,
-Hume,83980,
-Indigo,7750,
-Kingston (Vic.),67622,
-Knox,62012,
-Latrobe (Vic.),35685,
-Loddon,4323,
-Macedon Ranges,20630,
-Manningham,49918,
-Mansfield,6619,
-Maribyrnong,40501,
-Maroondah,46937,
-Melbourne,103368,
-Melton,60363,
-Mildura,25371,
-Mitchell,19590,
-Moira,14948,
-Monash,76463,
-Moonee Valley,55115,
-Moorabool,15473,
-Moreland,78310,
-Mornington Peninsula,93602,
-Mount Alexander,10141,
-Moyne,8550,
-Murrindindi,8349,
-Nillumbik,22406,
-Northern Grampians,6253,
-Port Phillip,63301,
-Pyrenees,3939,
-Queenscliffe,2902,
-South Gippsland,17145,
-Southern Grampians,8292,
-Stonnington,59609,
-Strathbogie,6164,
-Surf Coast,20678,
-Swan Hill,9554,
-Towong,3125,
-Wangaratta,13677,
-Warrnambool,16025,
-Wellington,23554,
-West Wimmera,2255,
-Whitehorse,71712,
-Whittlesea,82993,
-Wodonga,18214,
-Wyndham,100363,
-Yarra,50059,
-Yarra Ranges,61574,
-Yarriambiack,3598,
-Unincorporated Vic,1054,
-Migratory - Offshore - Shipping (Vic.),49,
-Aurukun,343,
-Balonne,2283,
-Banana,7247,
-Barcaldine,1896,
-Barcoo,267,
-Blackall Tambo,1152,
-Boulia,307,
-Brisbane,519431,
-Bulloo,230,
-Bundaberg,46081,
-Burdekin,8259,
-Burke,546,
-Cairns,72620,
-Carpentaria,1639,
-Cassowary Coast,15123,
-Central Highlands (Qld),14180,
-Charters Towers,5974,
-Cherbourg,332,
-Cloncurry,2123,
-Cook,3163,
-Croydon,214,
-Diamantina,228,
-Doomadgee,376,
-Douglas,6981,
-Etheridge,750,
-Flinders (Qld),992,
-Fraser Coast,52621,
-Gladstone,29868,
-Gold Coast,270761,
-Goondiwindi,4857,
-Gympie,24767,
-Hinchinbrook,6030,
-Hope Vale,348,
-Ipswich,87352,
-Isaac,11014,
-Kowanyama,308,
-Livingstone,17841,
-Lockhart River,228,
-Lockyer Valley,16162,
-Logan,125977,
-Longreach,2169,
-Mackay,52308,
-McKinlay,497,
-Mapoon,151,
-Maranoa,6510,
-Mareeba,10199,
-Moreton Bay,188327,
-Mornington,373,
-Mount Isa,9053,
-Murweh,2269,
-Napranum,265,
-Noosa,28715,
-North Burnett,5494,
-Northern Peninsula Area,1100,
-Palm Island,562,
-Paroo,1173,
-Pormpuraaw,253,
-Quilpie,507,
-Redland,65216,
-Richmond,438,
-Rockhampton,35813,
-Scenic Rim,18468,
-Somerset,11020,
-South Burnett,16096,
-Southern Downs,17447,
-Sunshine Coast,149005,
-Tablelands,13184,
-Toowoomba,74054,
-Torres,1349,
-Torres Strait Island,1357,
-Townsville,83412,
-Weipa,1839,
-Western Downs,16165,
-Whitsunday,18043,
-Winton,872,
-Woorabinda,316,
-Wujal Wujal,93,
-Yarrabah,524,
-Migratory - Offshore - Shipping (Qld),98,
-Adelaide,14766,
-Adelaide Hills,16270,
-Adelaide Plains,4006,
-Alexandrina,16760,
-Anangu Pitjantjatjara Yunkunytjatjara,778,
-Barossa,11044,
-Barunga West,1928,
-Berri Barmera,5257,
-Burnside,19630,
-Campbelltown (SA),23247,
-Ceduna,1909,
-Charles Sturt,54847,
-Clare and Gilbert Valleys,4678,
-Cleve,975,
-Coober Pedy,1481,
-Copper Coast,9242,
-Elliston,849,
-Flinders Ranges,1084,
-Franklin Harbour,876,
-Gawler,11126,
-Goyder,2371,
-Grant,3745,
-Holdfast Bay,18707,
-Kangaroo Island,3350,
-Karoonda East Murray,610,
-Kimba,616,
-Kingston (SA),1733,
-Light,6046,
-Lower Eyre Peninsula,3028,
-Loxton Waikerie,5787,
-Maralinga Tjarutja,41,
-Marion,41654,
-Mid Murray,7413,
-Mitcham,27169,
-Mount Barker,16054,
-Mount Gambier,12789,
-Mount Remarkable,1866,
-Murray Bridge,10164,
-Naracoorte Lucindale,4076,
-Northern Areas,2424,
-Norwood Payneham and St Peters,18126,
-Onkaparinga,75493,
-Orroroo Carrieton,541,
-Peterborough,1073,
-Playford,39505,
-Port Adelaide Enfield,56716,
-Port Augusta,7015,
-Port Lincoln,6970,
-Port Pirie,8589,
-Prospect,9474,
-Renmark Paringa,4669,
-Robe,1669,
-Roxby Downs,1781,
-Salisbury,57117,
-Southern Mallee,1077,
-Streaky Bay,1393,
-Tatiara,3194,
-Tea Tree Gully,41034,
-Coorong,3106,
-Tumby Bay,1681,
-Unley,17360,
-Victor Harbor,9764,
-Wakefield,3348,
-Walkerville,3663,
-Wattle Range,6114,
-West Torrens,27977,
-Whyalla,11247,
-Wudinna,616,
-Yankalilla,4403,
-Yorke Peninsula,10310,
-Unincorporated SA,2910,
-Migratory - Offshore - Shipping (SA),11,
-Albany,18033,
-Armadale,36306,
-Ashburton,3727,
-Augusta Margaret River,8918,
-Bassendean,7187,
-Bayswater,32165,
-Belmont,20355,
-Beverley,971,
-Boddington,839,
-Boyup Brook,927,
-Bridgetown-Greenbushes,2688,
-Brookton,482,
-Broome,9419,
-Broomehill-Tambellup,577,
-Bruce Rock,425,
-Bunbury,15960,
-Busselton,21315,
-Cambridge,11522,
-Canning,37259,
-Capel,7110,
-Carnamah,371,
-Carnarvon,3763,
-Chapman Valley,694,
-Chittering,2410,
-Christmas Island,623,
-Claremont,5251,
-Cockburn,48428,
-Cocos Islands,204,
-Collie,4121,
-Coolgardie,1798,
-Coorow,947,
-Corrigin,508,
-Cottesloe,3612,
-Cranbrook,612,
-Cuballing,488,
-Cue,204,
-Cunderdin,659,
-Dalwallinu,611,
-Dandaragan,2805,
-Dardanup,6053,
-Denmark,3670,
-Derby-West Kimberley,3604,
-Donnybrook-Balingup,2821,
-Dowerin,422,
-Dumbleyung,335,
-Dundas,632,
-East Fremantle,3327,
-East Pilbara,3625,
-Esperance,6844,
-Exmouth,2662,
-Fremantle,15751,
-Gingin,4107,
-Gnowangerup,671,
-Goomalling,527,
-Gosnells,47117,
-Greater Geraldton,18018,
-Halls Creek,1674,
-Harvey,11874,
-Irwin,2163,
-Jerramungup,913,
-Joondalup,62177,
-Kalamunda,23347,
-Kalgoorlie-Boulder,13248,
-Karratha,10056,
-Katanning,1843,
-Kellerberrin,621,
-Kent,266,
-Kojonup,1037,
-Kondinin,471,
-Koorda,246,
-Kulin,396,
-Kwinana,17628,
-Lake Grace,751,
-Laverton,396,
-Leonora,839,
-Mandurah,44140,
-Manjimup,5035,
-Meekatharra,608,
-Melville,42920,
-Menzies,237,
-Merredin,1636,
-Mingenew,274,
-Moora,1156,
-Morawa,320,
-Mosman Park,4122,
-Mount Magnet,410,
-Mount Marshall,315,
-Mukinbudin,328,
-Mundaring,14962,
-Murchison,81,
-Murray,8192,
-Nannup,1014,
-Narembeen,402,
-Narrogin,2409,
-Nedlands,8407,
-Ngaanyatjarraku,607,
-Northam,5237,
-Northampton,2382,
-Nungarin,135,
-Peppermint Grove,615,
-Perenjori,254,
-Perth,17636,
-Pingelly,553,
-Plantagenet,2676,
-Port Hedland,7942,
-Quairading,499,
-Ravensthorpe,1405,
-Rockingham,54910,
-Sandstone,94,
-Serpentine-Jarrahdale,11234,
-Shark Bay,1295,
-South Perth,20882,
-Stirling,102177,
-Subiaco,8829,
-Swan,58928,
-Tammin,238,
-Three Springs,319,
-Toodyay,2382,
-Trayning,253,
-Upper Gascoyne,159,
-Victoria Park,18019,
-Victoria Plains,411,
-Vincent,18208,
-Wagin,888,
-Wandering,260,
-Wanneroo,78061,
-Waroona,2224,
-West Arthur,376,
-Westonia,147,
-Wickepin,335,
-Williams,507,
-Wiluna,273,
-Wongan-Ballidu,685,
-Woodanilling,221,
-Wyalkatchem,358,
-Wyndham-East Kimberley,4366,
-Yalgoo,139,
-Yilgarn,715,
-York,1883,
-Migratory - Offshore - Shipping (WA),170,
-Break O'Day,4850,
-Brighton,7530,
-Burnie,9274,
-Central Coast (Tas.),10434,
-Central Highlands (Tas.),2752,
-Circular Head,4064,
-Clarence,25894,
-Derwent Valley,4749,
-Devonport,12071,
-Dorset,3948,
-Flinders (Tas.),689,
-George Town,3685,
-Glamorgan-Spring Bay,4752,
-Glenorchy,21879,
-Hobart,24864,
-Huon Valley,8767,
-Kentish,2915,
-King Island,897,
-Kingborough,17301,
-Latrobe (Tas.),5816,
-Launceston,31369,
-Meander Valley,9276,
-Northern Midlands,6444,
-Sorell,8134,
-Southern Midlands,2978,
-Tasman,2644,
-Waratah-Wynyard,6909,
-West Coast,3123,
-West Tamar,11308,
-Migratory - Offshore - Shipping (Tas.),16,
-Alice Springs,11681,
-Barkly,2932,
-Belyuen,42,
-Central Desert,1272,
-Coomalie,1065,
-Darwin,34806,
-Darwin Waterfront Precinct,258,
-East Arnhem,1968,
-Katherine,4436,
-Litchfield,8883,
-MacDonnell,2243,
-Palmerston,14542,
-Roper Gulf,2923,
-Tiwi Islands,798,
-Victoria Daly,1232,
-Wagait,293,
-West Arnhem,2225,
-West Daly,709,
-Unincorporated NT,4175,
-Migratory - Offshore - Shipping (NT),74,
-Unincorporated ACT,187156,
-Migratory - Offshore - Shipping (ACT),0,
-Unincorp. Other Territories,1376,
-Migratory - Offshore - Shipping (OT),0,
-Total,10875248,
-"Data source: Census of Population and Housing, 2021, TableBuilder",,
-INFO,Cells in this table have been randomly adjusted to avoid the release of confidential data. No reliance should be placed on small cells.,
-"Copyright Commonwealth of Australia, 2021, see abs.gov.au/copyright",,
-"ABS data licensed under Creative Commons, see abs.gov.au/ccby",,
+National LGA Name 2021,Dwelling Records
+Armidale Regional,12955.0
+Ballina,20889.0
+Balranald,1091.0
+Bathurst Regional,18458.0
+Bayside (NSW),74840.0
+Bega Valley,18867.0
+Bellingen,6390.0
+Berrigan,4265.0
+Blacktown,133984.0
+Bland,3107.0
+Blayney,3246.0
+Blue Mountains,35239.0
+Bogan,1306.0
+Bourke,1317.0
+Brewarrina,740.0
+Broken Hill,9591.0
+Burwood,16201.0
+Byron,16996.0
+Cabonne,5895.0
+Camden,39601.0
+Campbelltown (NSW),63128.0
+Canada Bay,39121.0
+Canterbury-Bankstown,133438.0
+Carrathool,1312.0
+Central Coast (NSW),152870.0
+Central Darling,1065.0
+Cessnock,25812.0
+Clarence Valley,26143.0
+Cobar,2320.0
+Coffs Harbour,34696.0
+Coolamon,1974.0
+Coonamble,1825.0
+Cootamundra-Gundagai Regional,5510.0
+Cowra,6267.0
+Cumberland,83189.0
+Dubbo Regional,22823.0
+Dungog,4224.0
+Edward River,4252.0
+Eurobodalla,24600.0
+Fairfield,67658.0
+Federation,6546.0
+Forbes,4373.0
+Georges River,58429.0
+Gilgandra,2137.0
+Glen Innes Severn,4610.0
+Goulburn Mulwaree,14739.0
+Greater Hume Shire,4846.0
+Griffith,10833.0
+Gunnedah,5842.0
+Gwydir,2443.0
+Hawkesbury,25523.0
+Hay,1552.0
+Hilltops,9220.0
+Hornsby,55952.0
+Hunters Hill,5323.0
+Inner West,85462.0
+Inverell,8137.0
+Junee,2519.0
+Kempsey,14292.0
+Kiama,10785.0
+Ku-ring-gai,45894.0
+Kyogle,4688.0
+Lachlan,3014.0
+Lake Macquarie,88908.0
+Lane Cove,17340.0
+Leeton,4705.0
+Lismore,19781.0
+Lithgow,10236.0
+Liverpool,77895.0
+Liverpool Plains,3694.0
+Lockhart,1417.0
+Maitland,35456.0
+Mid-Coast,50474.0
+Mid-Western Regional,12262.0
+Moree Plains,6230.0
+Mosman,13410.0
+Murray River,6268.0
+Murrumbidgee,1647.0
+Muswellbrook,7333.0
+Nambucca Valley,10016.0
+Narrabri,5997.0
+Narrandera,2694.0
+Narromine,2851.0
+Newcastle,74585.0
+North Sydney,39034.0
+Northern Beaches,105115.0
+Oberon,2828.0
+Orange,18706.0
+Parkes,6697.0
+Parramatta,106654.0
+Penrith,81250.0
+Port Macquarie-Hastings,40066.0
+Port Stephens,35699.0
+Queanbeyan-Palerang Regional,26549.0
+Randwick,59965.0
+Richmond Valley,10692.0
+Ryde,55742.0
+Shellharbour,29884.0
+Shoalhaven,58799.0
+Singleton,9838.0
+Snowy Monaro Regional,12251.0
+Snowy Valleys,7075.0
+Strathfield,18287.0
+Sutherland Shire,90981.0
+Sydney,124114.0
+Tamworth Regional,27725.0
+Temora,2926.0
+Tenterfield,3968.0
+The Hills Shire,64080.0
+Tweed,44661.0
+Upper Hunter Shire,6793.0
+Upper Lachlan Shire,4584.0
+Uralla,2759.0
+Wagga Wagga,28244.0
+Walcha,1638.0
+Walgett,2865.0
+Warren,1228.0
+Warrumbungle Shire,4739.0
+Waverley,32850.0
+Weddin,1869.0
+Wentworth,3457.0
+Willoughby,31175.0
+Wingecarribee,23623.0
+Wollondilly,18918.0
+Wollongong,89476.0
+Woollahra,26588.0
+Yass Valley,6823.0
+Unincorporated NSW,549.0
+Migratory - Offshore - Shipping (NSW),34.0
+Alpine,7271.0
+Ararat,5509.0
+Ballarat,50347.0
+Banyule,53031.0
+Bass Coast,28981.0
+Baw Baw,24522.0
+Bayside (Vic.),43102.0
+Benalla,7211.0
+Boroondara,72924.0
+Brimbank,71871.0
+Buloke,3397.0
+Campaspe,17840.0
+Cardinia,43533.0
+Casey,122674.0
+Central Goldfields,7004.0
+Colac Otway,12460.0
+Corangamite,7897.0
+Darebin,68366.0
+East Gippsland,26078.0
+Frankston,58890.0
+Gannawarra,5326.0
+Glen Eira,66235.0
+Glenelg,10173.0
+Golden Plains,9408.0
+Greater Bendigo,53173.0
+Greater Dandenong,58198.0
+Greater Geelong,120823.0
+Greater Shepparton,28885.0
+Hepburn,9511.0
+Hindmarsh,3110.0
+Hobsons Bay,39336.0
+Horsham,9638.0
+Hume,83980.0
+Indigo,7750.0
+Kingston (Vic.),67622.0
+Knox,62012.0
+Latrobe (Vic.),35685.0
+Loddon,4323.0
+Macedon Ranges,20630.0
+Manningham,49918.0
+Mansfield,6619.0
+Maribyrnong,40501.0
+Maroondah,46937.0
+Melbourne,103368.0
+Melton,60363.0
+Mildura,25371.0
+Mitchell,19590.0
+Moira,14948.0
+Monash,76463.0
+Moonee Valley,55115.0
+Moorabool,15473.0
+Moreland,78310.0
+Mornington Peninsula,93602.0
+Mount Alexander,10141.0
+Moyne,8550.0
+Murrindindi,8349.0
+Nillumbik,22406.0
+Northern Grampians,6253.0
+Port Phillip,63301.0
+Pyrenees,3939.0
+Queenscliffe,2902.0
+South Gippsland,17145.0
+Southern Grampians,8292.0
+Stonnington,59609.0
+Strathbogie,6164.0
+Surf Coast,20678.0
+Swan Hill,9554.0
+Towong,3125.0
+Wangaratta,13677.0
+Warrnambool,16025.0
+Wellington,23554.0
+West Wimmera,2255.0
+Whitehorse,71712.0
+Whittlesea,82993.0
+Wodonga,18214.0
+Wyndham,100363.0
+Yarra,50059.0
+Yarra Ranges,61574.0
+Yarriambiack,3598.0
+Unincorporated Vic,1054.0
+Migratory - Offshore - Shipping (Vic.),49.0
+Aurukun,343.0
+Balonne,2283.0
+Banana,7247.0
+Barcaldine,1896.0
+Barcoo,267.0
+Blackall Tambo,1152.0
+Boulia,307.0
+Brisbane,519431.0
+Bulloo,230.0
+Bundaberg,46081.0
+Burdekin,8259.0
+Burke,546.0
+Cairns,72620.0
+Carpentaria,1639.0
+Cassowary Coast,15123.0
+Central Highlands (Qld),14180.0
+Charters Towers,5974.0
+Cherbourg,332.0
+Cloncurry,2123.0
+Cook,3163.0
+Croydon,214.0
+Diamantina,228.0
+Doomadgee,376.0
+Douglas,6981.0
+Etheridge,750.0
+Flinders (Qld),992.0
+Fraser Coast,52621.0
+Gladstone,29868.0
+Gold Coast,270761.0
+Goondiwindi,4857.0
+Gympie,24767.0
+Hinchinbrook,6030.0
+Hope Vale,348.0
+Ipswich,87352.0
+Isaac,11014.0
+Kowanyama,308.0
+Livingstone,17841.0
+Lockhart River,228.0
+Lockyer Valley,16162.0
+Logan,125977.0
+Longreach,2169.0
+Mackay,52308.0
+McKinlay,497.0
+Mapoon,151.0
+Maranoa,6510.0
+Mareeba,10199.0
+Moreton Bay,188327.0
+Mornington,373.0
+Mount Isa,9053.0
+Murweh,2269.0
+Napranum,265.0
+Noosa,28715.0
+North Burnett,5494.0
+Northern Peninsula Area,1100.0
+Palm Island,562.0
+Paroo,1173.0
+Pormpuraaw,253.0
+Quilpie,507.0
+Redland,65216.0
+Richmond,438.0
+Rockhampton,35813.0
+Scenic Rim,18468.0
+Somerset,11020.0
+South Burnett,16096.0
+Southern Downs,17447.0
+Sunshine Coast,149005.0
+Tablelands,13184.0
+Toowoomba,74054.0
+Torres,1349.0
+Torres Strait Island,1357.0
+Townsville,83412.0
+Weipa,1839.0
+Western Downs,16165.0
+Whitsunday,18043.0
+Winton,872.0
+Woorabinda,316.0
+Wujal Wujal,93.0
+Yarrabah,524.0
+Migratory - Offshore - Shipping (Qld),98.0
+Adelaide,14766.0
+Adelaide Hills,16270.0
+Adelaide Plains,4006.0
+Alexandrina,16760.0
+Anangu Pitjantjatjara Yunkunytjatjara,778.0
+Barossa,11044.0
+Barunga West,1928.0
+Berri Barmera,5257.0
+Burnside,19630.0
+Campbelltown (SA),23247.0
+Ceduna,1909.0
+Charles Sturt,54847.0
+Clare and Gilbert Valleys,4678.0
+Cleve,975.0
+Coober Pedy,1481.0
+Copper Coast,9242.0
+Elliston,849.0
+Flinders Ranges,1084.0
+Franklin Harbour,876.0
+Gawler,11126.0
+Goyder,2371.0
+Grant,3745.0
+Holdfast Bay,18707.0
+Kangaroo Island,3350.0
+Karoonda East Murray,610.0
+Kimba,616.0
+Kingston (SA),1733.0
+Light,6046.0
+Lower Eyre Peninsula,3028.0
+Loxton Waikerie,5787.0
+Maralinga Tjarutja,41.0
+Marion,41654.0
+Mid Murray,7413.0
+Mitcham,27169.0
+Mount Barker,16054.0
+Mount Gambier,12789.0
+Mount Remarkable,1866.0
+Murray Bridge,10164.0
+Naracoorte Lucindale,4076.0
+Northern Areas,2424.0
+Norwood Payneham and St Peters,18126.0
+Onkaparinga,75493.0
+Orroroo Carrieton,541.0
+Peterborough,1073.0
+Playford,39505.0
+Port Adelaide Enfield,56716.0
+Port Augusta,7015.0
+Port Lincoln,6970.0
+Port Pirie,8589.0
+Prospect,9474.0
+Renmark Paringa,4669.0
+Robe,1669.0
+Roxby Downs,1781.0
+Salisbury,57117.0
+Southern Mallee,1077.0
+Streaky Bay,1393.0
+Tatiara,3194.0
+Tea Tree Gully,41034.0
+Coorong,3106.0
+Tumby Bay,1681.0
+Unley,17360.0
+Victor Harbor,9764.0
+Wakefield,3348.0
+Walkerville,3663.0
+Wattle Range,6114.0
+West Torrens,27977.0
+Whyalla,11247.0
+Wudinna,616.0
+Yankalilla,4403.0
+Yorke Peninsula,10310.0
+Unincorporated SA,2910.0
+Migratory - Offshore - Shipping (SA),11.0
+Albany,18033.0
+Armadale,36306.0
+Ashburton,3727.0
+Augusta Margaret River,8918.0
+Bassendean,7187.0
+Bayswater,32165.0
+Belmont,20355.0
+Beverley,971.0
+Boddington,839.0
+Boyup Brook,927.0
+Bridgetown-Greenbushes,2688.0
+Brookton,482.0
+Broome,9419.0
+Broomehill-Tambellup,577.0
+Bruce Rock,425.0
+Bunbury,15960.0
+Busselton,21315.0
+Cambridge,11522.0
+Canning,37259.0
+Capel,7110.0
+Carnamah,371.0
+Carnarvon,3763.0
+Chapman Valley,694.0
+Chittering,2410.0
+Christmas Island,623.0
+Claremont,5251.0
+Cockburn,48428.0
+Cocos Islands,204.0
+Collie,4121.0
+Coolgardie,1798.0
+Coorow,947.0
+Corrigin,508.0
+Cottesloe,3612.0
+Cranbrook,612.0
+Cuballing,488.0
+Cue,204.0
+Cunderdin,659.0
+Dalwallinu,611.0
+Dandaragan,2805.0
+Dardanup,6053.0
+Denmark,3670.0
+Derby-West Kimberley,3604.0
+Donnybrook-Balingup,2821.0
+Dowerin,422.0
+Dumbleyung,335.0
+Dundas,632.0
+East Fremantle,3327.0
+East Pilbara,3625.0
+Esperance,6844.0
+Exmouth,2662.0
+Fremantle,15751.0
+Gingin,4107.0
+Gnowangerup,671.0
+Goomalling,527.0
+Gosnells,47117.0
+Greater Geraldton,18018.0
+Halls Creek,1674.0
+Harvey,11874.0
+Irwin,2163.0
+Jerramungup,913.0
+Joondalup,62177.0
+Kalamunda,23347.0
+Kalgoorlie-Boulder,13248.0
+Karratha,10056.0
+Katanning,1843.0
+Kellerberrin,621.0
+Kent,266.0
+Kojonup,1037.0
+Kondinin,471.0
+Koorda,246.0
+Kulin,396.0
+Kwinana,17628.0
+Lake Grace,751.0
+Laverton,396.0
+Leonora,839.0
+Mandurah,44140.0
+Manjimup,5035.0
+Meekatharra,608.0
+Melville,42920.0
+Menzies,237.0
+Merredin,1636.0
+Mingenew,274.0
+Moora,1156.0
+Morawa,320.0
+Mosman Park,4122.0
+Mount Magnet,410.0
+Mount Marshall,315.0
+Mukinbudin,328.0
+Mundaring,14962.0
+Murchison,81.0
+Murray,8192.0
+Nannup,1014.0
+Narembeen,402.0
+Narrogin,2409.0
+Nedlands,8407.0
+Ngaanyatjarraku,607.0
+Northam,5237.0
+Northampton,2382.0
+Nungarin,135.0
+Peppermint Grove,615.0
+Perenjori,254.0
+Perth,17636.0
+Pingelly,553.0
+Plantagenet,2676.0
+Port Hedland,7942.0
+Quairading,499.0
+Ravensthorpe,1405.0
+Rockingham,54910.0
+Sandstone,94.0
+Serpentine-Jarrahdale,11234.0
+Shark Bay,1295.0
+South Perth,20882.0
+Stirling,102177.0
+Subiaco,8829.0
+Swan,58928.0
+Tammin,238.0
+Three Springs,319.0
+Toodyay,2382.0
+Trayning,253.0
+Upper Gascoyne,159.0
+Victoria Park,18019.0
+Victoria Plains,411.0
+Vincent,18208.0
+Wagin,888.0
+Wandering,260.0
+Wanneroo,78061.0
+Waroona,2224.0
+West Arthur,376.0
+Westonia,147.0
+Wickepin,335.0
+Williams,507.0
+Wiluna,273.0
+Wongan-Ballidu,685.0
+Woodanilling,221.0
+Wyalkatchem,358.0
+Wyndham-East Kimberley,4366.0
+Yalgoo,139.0
+Yilgarn,715.0
+York,1883.0
+Migratory - Offshore - Shipping (WA),170.0
+Break O'Day,4850.0
+Brighton,7530.0
+Burnie,9274.0
+Central Coast (Tas.),10434.0
+Central Highlands (Tas.),2752.0
+Circular Head,4064.0
+Clarence,25894.0
+Derwent Valley,4749.0
+Devonport,12071.0
+Dorset,3948.0
+Flinders (Tas.),689.0
+George Town,3685.0
+Glamorgan-Spring Bay,4752.0
+Glenorchy,21879.0
+Hobart,24864.0
+Huon Valley,8767.0
+Kentish,2915.0
+King Island,897.0
+Kingborough,17301.0
+Latrobe (Tas.),5816.0
+Launceston,31369.0
+Meander Valley,9276.0
+Northern Midlands,6444.0
+Sorell,8134.0
+Southern Midlands,2978.0
+Tasman,2644.0
+Waratah-Wynyard,6909.0
+West Coast,3123.0
+West Tamar,11308.0
+Migratory - Offshore - Shipping (Tas.),16.0
+Alice Springs,11681.0
+Barkly,2932.0
+Belyuen,42.0
+Central Desert,1272.0
+Coomalie,1065.0
+Darwin,34806.0
+Darwin Waterfront Precinct,258.0
+East Arnhem,1968.0
+Katherine,4436.0
+Litchfield,8883.0
+MacDonnell,2243.0
+Palmerston,14542.0
+Roper Gulf,2923.0
+Tiwi Islands,798.0
+Victoria Daly,1232.0
+Wagait,293.0
+West Arnhem,2225.0
+West Daly,709.0
+Unincorporated NT,4175.0
+Migratory - Offshore - Shipping (NT),74.0
+Unincorporated ACT,187156.0
+Migratory - Offshore - Shipping (ACT),0.0
+Unincorp. Other Territories,1376.0
+Migratory - Offshore - Shipping (OT),0.0
+Total,10875248.0
