@@ -1,12 +1,21 @@
-时间：星期几 月份 年份 所有
-节假日：
-昼夜：
-地点： LGA 州 
-偏远地区类型 
-住宅密度： 
-驾驶员：性别 年龄
-道路使用者类型：
+时间：时间 昼夜 星期几 月份 年份 所有
+特殊节假日：
+地点： LGA 州 偏远程度 
+人员：性别 年龄 类型
 涉事车辆类型：卡车 公交 
-道路类型：国道 高速 未定
+道路类型：国道 高速 限速
 事故类型：多重 单个
-限速规则：
+事故严重程度：死亡人数1，2-3， 4以上
+
+
+字段名	数据类型	描述	关联维度
+accident_id	VARCHAR(20)	事故唯一ID	-
+time_id	INT	统一的时间维度键	关联Dim_Time
+location_id	INT	地点键	关联Dim_Location
+person_id	INT	人员键	关联Dim_Person
+vehicle_id	INT	车辆键	关联Dim_Vehicle
+road_id	INT	道路键	关联Dim_Road
+crash_type_id	INT	事故类型键	关联Dim_CrashType
+severity_id	INT	严重程度键	关联Dim_Severity
+fatality_count	INT	死亡人数	-
+dwelling_density	INT	住宅密度	-

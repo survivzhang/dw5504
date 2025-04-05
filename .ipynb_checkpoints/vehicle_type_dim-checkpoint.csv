@@ -1,0 +1,19 @@
+Crash Type,Bus Involvement,Heavy Rigid Truck Involvement,Vehicle Type Dimension Index
+Single,No,No,0
+Multiple,No,No,1
+Multiple,Undetermined,Undetermined,2
+Single,Undetermined,Undetermined,3
+Multiple,Yes,No,4
+Single,No,Yes,5
+Multiple,No,Yes,6
+Multiple,Undetermined,Yes,7
+Single,Yes,Yes,8
+Single,Yes,No,9
+Multiple,Yes,Yes,10
+Multiple,Undetermined,No,11
+Single,Undetermined,No,12
+Single,Undetermined,Yes,13
+Multiple,No,Undetermined,14
+Single,No,Undetermined,15
+Single,Yes,Undetermined,16
+Multiple,Yes,Undetermined,17

@@ -1,0 +1,20 @@
+Bus Involvement,Heavy Rigid Truck Involvement,Articulated Truck Involvement,Vehicle Type Dimension Index
+No,No,No,1
+Undetermined,Undetermined,Undetermined,2
+No,No,Yes,3
+Yes,No,Yes,4
+No,Yes,No,5
+Undetermined,Yes,Undetermined,6
+No,Yes,Yes,7
+Yes,No,No,8
+Yes,Yes,No,9
+Undetermined,Undetermined,Yes,10
+Undetermined,No,No,11
+Undetermined,No,Yes,12
+Undetermined,Yes,No,13
+Undetermined,Yes,Yes,14
+No,Undetermined,No,15
+No,Undetermined,Yes,16
+Yes,Undetermined,No,17
+Yes,Undetermined,Yes,18
+Undetermined,Undetermined,No,19

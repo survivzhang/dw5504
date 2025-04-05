@@ -1,0 +1,109 @@
+Gender,Age Group,Road User,Personnel Dimension Index
+Male,65_to_74,Driver,0
+Female,17_to_25,Driver,1
+Female,26_to_39,Driver,2
+Male,40_to_64,Passenger,3
+Female,40_to_64,Passenger,4
+Male,40_to_64,Motorcycle rider,5
+Female,26_to_39,Passenger,6
+Male,17_to_25,Motorcycle rider,7
+Female,40_to_64,Driver,8
+Male,40_to_64,Pedestrian,9
+Male,40_to_64,Driver,10
+Male,26_to_39,Driver,11
+Male,65_to_74,Pedestrian,12
+Female,75_or_older,Driver,13
+Male,17_to_25,Driver,14
+Male,0_to_16,Pedestrian,15
+Female,65_to_74,Pedestrian,16
+Female,40_to_64,Pedestrian,17
+Male,26_to_39,Pedestrian,18
+Male,17_to_25,Passenger,19
+Male,65_to_74,Motorcycle rider,20
+Female,65_to_74,Passenger,21
+Male,26_to_39,Motorcycle rider,22
+Male,75_or_older,Driver,23
+Male,40_to_64,Pedal cyclist,24
+Female,75_or_older,Pedestrian,25
+Female,65_to_74,Driver,26
+Male,75_or_older,Motorcycle rider,27
+Male,26_to_39,Passenger,28
+Female,26_to_39,Pedestrian,29
+Male,0_to_16,Driver,30
+Female,17_to_25,Passenger,31
+Undetermined,65_to_74,Motorcycle rider,32
+Female,75_or_older,Passenger,33
+Female,Undetermined,Pedestrian,34
+Male,75_or_older,Pedestrian,35
+Male,65_to_74,Other/-9,36
+Male,65_to_74,Pedal cyclist,37
+Male,75_or_older,Passenger,38
+Male,26_to_39,Pedal cyclist,39
+Female,0_to_16,Driver,40
+Female,40_to_64,Motorcycle rider,41
+Male,0_to_16,Passenger,42
+Male,65_to_74,Passenger,43
+Female,17_to_25,Pedestrian,44
+Male,0_to_16,Other/-9,45
+Male,0_to_16,Unknown,46
+Female,0_to_16,Passenger,47
+Male,26_to_39,Other/-9,48
+Female,26_to_39,Motorcycle rider,49
+Female,0_to_16,Pedestrian,50
+Female,26_to_39,Unknown,51
+Male,0_to_16,Motorcycle rider,52
+Male,0_to_16,Pedal cyclist,53
+Female,0_to_16,Unknown,54
+Male,Undetermined,Pedestrian,55
+Male,75_or_older,Pedal cyclist,56
+Female,40_to_64,Unknown,57
+Female,Undetermined,Other/-9,58
+Male,17_to_25,Motorcycle pillion passenger,59
+Female,Undetermined,Passenger,60
+Female,65_to_74,Pedal cyclist,61
+Female,40_to_64,Pedal cyclist,62
+Undetermined,75_or_older,Passenger,63
+Undetermined,Undetermined,Driver,64
+Male,Undetermined,Pedal cyclist,65
+Undetermined,40_to_64,Motorcycle rider,66
+Female,17_to_25,Motorcycle rider,67
+Undetermined,Undetermined,Passenger,68
+Male,17_to_25,Pedestrian,69
+Male,75_or_older,Other/-9,70
+Female,17_to_25,Motorcycle pillion passenger,71
+Female,65_to_74,Motorcycle rider,72
+Female,0_to_16,Motorcycle pillion passenger,73
+Male,Undetermined,Other/-9,74
+Female,0_to_16,Other/-9,75
+Male,Undetermined,Passenger,76
+Female,26_to_39,Pedal cyclist,77
+Male,Undetermined,Driver,78
+Male,26_to_39,Unknown,79
+Male,40_to_64,Other/-9,80
+Female,40_to_64,Other/-9,81
+Female,26_to_39,Motorcycle pillion passenger,82
+Male,40_to_64,Unknown,83
+Female,17_to_25,Pedal cyclist,84
+Male,17_to_25,Pedal cyclist,85
+Female,40_to_64,Motorcycle pillion passenger,86
+Undetermined,26_to_39,Motorcycle rider,87
+Female,26_to_39,Other/-9,88
+Female,17_to_25,Other/-9,89
+Male,40_to_64,Motorcycle pillion passenger,90
+Male,26_to_39,Motorcycle pillion passenger,91
+Female,75_or_older,Motorcycle rider,92
+Male,17_to_25,Other/-9,93
+Female,75_or_older,Pedal cyclist,94
+Undetermined,Undetermined,Pedestrian,95
+Female,75_or_older,Other/-9,96
+Female,0_to_16,Pedal cyclist,97
+Female,65_to_74,Other/-9,98
+Undetermined,0_to_16,Passenger,99
+Female,Undetermined,Driver,100
+Male,0_to_16,Motorcycle pillion passenger,101
+Undetermined,Undetermined,Undetermined,102
+Female,0_to_16,Motorcycle rider,103
+Female,65_to_74,Motorcycle pillion passenger,104
+Undetermined,0_to_16,Driver,105
+Female,Undetermined,Motorcycle pillion passenger,106
+Male,Undetermined,Motorcycle rider,107

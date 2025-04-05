@@ -1,0 +1,10 @@
+National Road Type,Road Type Dimension Index
+Arterial Road,1
+Local Road,2
+National or State Highway,3
+Undetermined,4
+Sub-arterial Road,5
+Collector Road,6
+Pedestrian Thoroughfare,7
+Access road,8
+Busway,9
