@@ -1,4 +1,4 @@
-Month,Year,Dayweek,Time,Day of week,Time of Day,Time Dimension Index
+Month,Year,Dayweek,Time,Day of week,Time of Day,TimeID
 12,2024,Friday,04:00:00,Weekday,Night,1
 12,2024,Friday,06:15:00,Weekday,Day,2
 12,2024,Friday,09:43:00,Weekday,Day,3

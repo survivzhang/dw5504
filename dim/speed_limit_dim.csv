@@ -1,8 +1,8 @@
-Speed Limit,speed_limit_dim Index
+Speed Limit,SpeedLimitID
 100,1
 80,2
 50,3
-Undetermined,4
+-9,4
 90,5
 60,6
 70,7
@@ -13,8 +13,6 @@ Undetermined,4
 5,12
 130,13
 30,14
-<40,15
-25,16
-15,17
-75,18
-,19
+25,15
+15,16
+75,17
