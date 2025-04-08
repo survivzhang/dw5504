@@ -1,0 +1,43 @@
+-- 导入时间维度表数据
+COPY Time_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\time_dim.csv' 
+WITH (FORMAT CSV, HEADER, DELIMITER ',');
+
+-- 导入地点维度表数据
+COPY Location_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\location_dim.csv' 
+WITH (FORMAT CSV, HEADER, DELIMITER ',');
+
+-- 导入人员维度表数据
+COPY Personnel_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\personnel_dim.csv' 
+WITH (FORMAT CSV, HEADER, DELIMITER ',');
+
+-- 导入车辆类型维度表数据
+COPY Vehicle_Type_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\vehicle_type_dim.csv' 
+WITH (FORMAT CSV, HEADER, DELIMITER ',');
+
+-- 导入道路类型维度表数据
+COPY Road_Type_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\road_type_dim.csv' 
+WITH (FORMAT CSV, HEADER, DELIMITER ',');
+
+-- 导入事故信息维度表数据
+COPY Accident_Info_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\accident_info_dim.csv' 
+WITH (FORMAT CSV, HEADER, DELIMITER ',');
+
+-- 导入严重程度维度表数据
+COPY Fatality_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\number_fatalities.csv' 
+WITH (FORMAT CSV, HEADER, DELIMITER ',');
+
+-- 导入特殊节假日维度表数据
+COPY Special_Period_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\special_period_dim.csv' 
+WITH (FORMAT CSV, HEADER, DELIMITER ',');
+
+-- 导入住宅记录维度表数据
+COPY Dwelling_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\dwelling_dim.csv' 
+WITH (FORMAT CSV, HEADER, DELIMITER ',');
+
+-- 导入限速维度表数据
+COPY Speed_Limit_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\speed_limit_dim.csv' 
+WITH (FORMAT CSV, HEADER, DELIMITER ',');
+
+-- 导入事实表数据
+COPY Accident_Facts FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\fact_table_with_index.csv' 
+WITH (FORMAT CSV, HEADER, DELIMITER ',');

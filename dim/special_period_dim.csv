@@ -1,4 +1,4 @@
-Christmas Period,Easter Period,SpecialPeriodID
-Yes,No,1
-No,No,2
-No,Yes,3
+SpecialPeriodID,Christmas Period,Easter Period
+1,Yes,No
+2,No,No
+3,No,Yes

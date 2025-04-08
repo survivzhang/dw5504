@@ -1,3 +1,3 @@
-Crash Type,CrashTypeID
-Single,1
-Multiple,2
+CrashTypeID,Crash Type
+1,Single
+2,Multiple

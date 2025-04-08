@@ -29,7 +29,7 @@ CREATE TABLE Personnel_Dimension (
 
 -- 创建车辆类型维度表
 CREATE TABLE Vehicle_Type_Dimension (
-    VehicleIDx INT PRIMARY KEY,
+    VehicleID INT PRIMARY KEY,
     Bus_Involvement VARCHAR(20),
     Heavy_Rigid_Truck_Involvement VARCHAR(20),
     Articulated_Truck_Involvement VARCHAR(20)
@@ -75,21 +75,21 @@ CREATE TABLE Speed_Limit_Dimension (
 -- 创建事实表
 CREATE TABLE Accident_Facts (
     Accident_ID INT PRIMARY KEY,
-    Crash_ID INT,
     TimeID INT,
     LocationID INT,
     PersonnelID INT,
-    VehicleIDx INT,
+    VehicleID INT,
     RoadID INT,
     CrashTypeID INT,
-    FatalityID INT,
+    
     SpecialPeriodID INT,
     DwellingID INT,
     SpeedLimitID INT,
+    FatalityID INT,
     FOREIGN KEY (TimeID) REFERENCES Time_Dimension(TimeID),
     FOREIGN KEY (LocationID) REFERENCES Location_Dimension(LocationID),
     FOREIGN KEY (PersonnelID) REFERENCES Personnel_Dimension(PersonnelID),
-    FOREIGN KEY (VehicleIDx) REFERENCES Vehicle_Type_Dimension(VehicleIDx),
+    FOREIGN KEY (VehicleID) REFERENCES Vehicle_Type_Dimension(VehicleID),
     FOREIGN KEY (RoadID) REFERENCES Road_Type_Dimension(RoadID),
     FOREIGN KEY (CrashTypeID) REFERENCES Accident_Info_Dimension(CrashTypeID),
     FOREIGN KEY (FatalityID) REFERENCES Fatality_Dimension(FatalityID),

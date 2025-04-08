@@ -1,10 +1,10 @@
-National Road Type,RoadID
-Arterial Road,1
-Local Road,2
-National or State Highway,3
-Undetermined,4
-Sub-arterial Road,5
-Collector Road,6
-Pedestrian Thoroughfare,7
-Access road,8
-Busway,9
+RoadID,National Road Type
+1,Arterial Road
+2,Local Road
+3,National or State Highway
+4,Undetermined
+5,Sub-arterial Road
+6,Collector Road
+7,Pedestrian Thoroughfare
+8,Access road
+9,Busway
