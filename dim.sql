@@ -81,11 +81,13 @@ CREATE TABLE Accident_Facts (
     VehicleID INT,
     RoadID INT,
     CrashTypeID INT,
-    
     SpecialPeriodID INT,
     DwellingID INT,
     SpeedLimitID INT,
     FatalityID INT,
+    fatalitiestotalnumber NUMERIC,
+    accidenttotalnumber NUMERIC,
+
     FOREIGN KEY (TimeID) REFERENCES Time_Dimension(TimeID),
     FOREIGN KEY (LocationID) REFERENCES Location_Dimension(LocationID),
     FOREIGN KEY (PersonnelID) REFERENCES Personnel_Dimension(PersonnelID),
