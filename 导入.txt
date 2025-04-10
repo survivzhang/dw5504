@@ -1,43 +1,45 @@
+-- 使用 \copy 代替 COPY 以绕过服务器文件权限问题
+
 -- 导入时间维度表数据
-COPY Time_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\time_dim.csv' 
+\copy Time_Dimension FROM '/Users/survivmac/Desktop/5504 DW/Geojson files/dim/time_dim.csv' 
 WITH (FORMAT CSV, HEADER, DELIMITER ',');
 
 -- 导入地点维度表数据
-COPY Location_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\location_dim.csv' 
+\copy Location_Dimension FROM '/Users/survivmac/Desktop/5504 DW/Geojson files/dim/location_dim.csv' 
 WITH (FORMAT CSV, HEADER, DELIMITER ',');
 
 -- 导入人员维度表数据
-COPY Personnel_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\personnel_dim.csv' 
+\copy Personnel_Dimension FROM '/Users/survivmac/Desktop/5504 DW/Geojson files/dim/personnel_dim.csv' 
 WITH (FORMAT CSV, HEADER, DELIMITER ',');
 
 -- 导入车辆类型维度表数据
-COPY Vehicle_Type_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\vehicle_type_dim.csv' 
+\copy Vehicle_Type_Dimension FROM '/Users/survivmac/Desktop/5504 DW/Geojson files/dim/vehicle_type_dim.csv' 
 WITH (FORMAT CSV, HEADER, DELIMITER ',');
 
 -- 导入道路类型维度表数据
-COPY Road_Type_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\road_type_dim.csv' 
+\copy Road_Type_Dimension FROM '/Users/survivmac/Desktop/5504 DW/Geojson files/dim/road_type_dim.csv' 
 WITH (FORMAT CSV, HEADER, DELIMITER ',');
 
 -- 导入事故信息维度表数据
-COPY Accident_Info_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\accident_info_dim.csv' 
+\copy Accident_Info_Dimension FROM '/Users/survivmac/Desktop/5504 DW/Geojson files/dim/accident_info_dim.csv' 
 WITH (FORMAT CSV, HEADER, DELIMITER ',');
 
 -- 导入严重程度维度表数据
-COPY Fatality_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\number_fatalities.csv' 
+\copy Fatality_Dimension FROM '/Users/survivmac/Desktop/5504 DW/Geojson files/dim/number_fatalities.csv' 
 WITH (FORMAT CSV, HEADER, DELIMITER ',');
 
 -- 导入特殊节假日维度表数据
-COPY Special_Period_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\special_period_dim.csv' 
+\copy Special_Period_Dimension FROM '/Users/survivmac/Desktop/5504 DW/Geojson files/dim/special_period_dim.csv' 
 WITH (FORMAT CSV, HEADER, DELIMITER ',');
 
 -- 导入住宅记录维度表数据
-COPY Dwelling_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\dwelling_dim.csv' 
+\copy Dwelling_Dimension FROM '/Users/survivmac/Desktop/5504 DW/Geojson files/dim/dwelling_dim.csv' 
 WITH (FORMAT CSV, HEADER, DELIMITER ',');
 
 -- 导入限速维度表数据
-COPY Speed_Limit_Dimension FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\speed_limit_dim.csv' 
+\copy Speed_Limit_Dimension FROM '/Users/survivmac/Desktop/5504 DW/Geojson files/dim/speed_limit_dim.csv' 
 WITH (FORMAT CSV, HEADER, DELIMITER ',');
 
 -- 导入事实表数据
-COPY Accident_Facts FROM 'C:\UWA Courses\Y2 S1\CITS5504 Data Warehousing\Project 1\ETL\dim\fact_table_with_index.csv' 
+\copy Accident_Facts FROM '/Users/survivmac/Desktop/5504 DW/Geojson files/dim/fact_table_with_index.csv' 
 WITH (FORMAT CSV, HEADER, DELIMITER ',');
