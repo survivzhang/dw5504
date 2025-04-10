@@ -85,7 +85,7 @@ CREATE TABLE Accident_Facts (
     DwellingID INT,
     SpeedLimitID INT,
     FatalityID INT,
-    fatalitiestotalnumber NUMERIC,
+    fatalitiestotalnumber NUMERIC,  
     accidenttotalnumber NUMERIC,
 
     FOREIGN KEY (TimeID) REFERENCES Time_Dimension(TimeID),
