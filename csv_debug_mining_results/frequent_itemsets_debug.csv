@@ -1,0 +1,820 @@
+itemsets,support,feature,value,target
+gender_Male,0.719129193433262,gender,Male,Driver
+road_user_Driver,0.4514444569668282,gender,Male,Driver
+"gender_Male,road_user_Driver",0.34026447274503174,gender,Male,Driver
+gender_Female,0.28026973214621137,gender,Female,Driver
+road_user_Driver,0.4514444569668282,gender,Female,Driver
+"gender_Female,road_user_Driver",0.11114241707051355,gender,Female,Driver
+road_user_Driver,0.4514444569668282,gender,Undetermined,Driver
+age_group_65_to_74,0.07834629400052594,age_group,65_to_74,Driver
+road_user_Driver,0.4514444569668282,age_group,65_to_74,Driver
+"age_group_65_to_74,road_user_Driver",0.035989330929035654,age_group,65_to_74,Driver
+age_group_17_to_25,0.2555693301776926,age_group,17_to_25,Driver
+road_user_Driver,0.4514444569668282,age_group,17_to_25,Driver
+"age_group_17_to_25,road_user_Driver",0.12098501070663811,age_group,17_to_25,Driver
+age_group_26_to_39,0.23175175626432248,age_group,26_to_39,Driver
+road_user_Driver,0.4514444569668282,age_group,26_to_39,Driver
+"age_group_26_to_39,road_user_Driver",0.11600736316165146,age_group,26_to_39,Driver
+age_group_40_to_64,0.2590818588226455,age_group,40_to_64,Driver
+road_user_Driver,0.4514444569668282,age_group,40_to_64,Driver
+"age_group_40_to_64,road_user_Driver",0.1322551560915136,age_group,40_to_64,Driver
+age_group_75_or_older,0.0985762049663774,age_group,75_or_older,Driver
+road_user_Driver,0.4514444569668282,age_group,75_or_older,Driver
+"age_group_75_or_older,road_user_Driver",0.04177467222660506,age_group,75_or_older,Driver
+age_group_0_to_16,0.07475863105300726,age_group,0_to_16,Driver
+road_user_Driver,0.4514444569668282,age_group,0_to_16,Driver
+road_user_Driver,0.4514444569668282,age_group,Undetermined,Driver
+day_of_week_Weekday,0.5881888876366506,day_of_week,Weekday,Driver
+road_user_Driver,0.4514444569668282,day_of_week,Weekday,Driver
+"day_of_week_Weekday,road_user_Driver",0.274935196664037,day_of_week,Weekday,Driver
+day_of_week_Weekend,0.411585709455652,day_of_week,Weekend,Driver
+road_user_Driver,0.4514444569668282,day_of_week,Weekend,Driver
+"day_of_week_Weekend,road_user_Driver",0.17641534242458395,day_of_week,Weekend,Driver
+road_user_Driver,0.4514444569668282,day_of_week,Unknown,Driver
+time_of_day_Night,0.4287538975919456,time_of_day,Night,Driver
+road_user_Driver,0.4514444569668282,time_of_day,Night,Driver
+"road_user_Driver,time_of_day_Night",0.19427852285961156,time_of_day,Night,Driver
+time_of_day_Day,0.5704384086554717,time_of_day,Day,Driver
+road_user_Driver,0.4514444569668282,time_of_day,Day,Driver
+"road_user_Driver,time_of_day_Day",0.2567339118674631,time_of_day,Day,Driver
+road_user_Driver,0.4514444569668282,time_of_day,Unknown,Driver
+bus_involvement_No,0.9801269769713362,bus_involvement,No,Driver
+road_user_Driver,0.4514444569668282,bus_involvement,No,Driver
+"bus_involvement_No,road_user_Driver",0.44595965287952216,bus_involvement,No,Driver
+road_user_Driver,0.4514444569668282,bus_involvement,Undetermined,Driver
+bus_involvement_Yes,0.018595739885044517,bus_involvement,Yes,Driver
+road_user_Driver,0.4514444569668282,bus_involvement,Yes,Driver
+heavy_rigid_truck_involvement_No,0.6261880611593222,heavy_rigid_truck_involvement,No,Driver
+road_user_Driver,0.4514444569668282,heavy_rigid_truck_involvement,No,Driver
+"heavy_rigid_truck_involvement_No,road_user_Driver",0.28894774409256546,heavy_rigid_truck_involvement,No,Driver
+heavy_rigid_truck_involvement_Undetermined,0.33864908523986625,heavy_rigid_truck_involvement,Undetermined,Driver
+road_user_Driver,0.4514444569668282,heavy_rigid_truck_involvement,Undetermined,Driver
+"heavy_rigid_truck_involvement_Undetermined,road_user_Driver",0.1437319208084451,heavy_rigid_truck_involvement,Undetermined,Driver
+heavy_rigid_truck_involvement_Yes,0.03516285360081145,heavy_rigid_truck_involvement,Yes,Driver
+road_user_Driver,0.4514444569668282,heavy_rigid_truck_involvement,Yes,Driver
+"heavy_rigid_truck_involvement_Yes,road_user_Driver",0.01876479206581765,heavy_rigid_truck_involvement,Yes,Driver
+articulated_truck_involvement_No,0.8997708403771743,articulated_truck_involvement,No,Driver
+road_user_Driver,0.4514444569668282,articulated_truck_involvement,No,Driver
+"articulated_truck_involvement_No,road_user_Driver",0.38885758292948647,articulated_truck_involvement,No,Driver
+road_user_Driver,0.4514444569668282,articulated_truck_involvement,Undetermined,Driver
+articulated_truck_involvement_Yes,0.09906457793305534,articulated_truck_involvement,Yes,Driver
+road_user_Driver,0.4514444569668282,articulated_truck_involvement,Yes,Driver
+"articulated_truck_involvement_Yes,road_user_Driver",0.06209850107066381,articulated_truck_involvement,Yes,Driver
+national_road_type_Arterial Road,0.04695893910364777,national_road_type,Arterial Road,Driver
+road_user_Driver,0.4514444569668282,national_road_type,Arterial Road,Driver
+"national_road_type_Arterial Road,road_user_Driver",0.02297231300950449,national_road_type,Arterial Road,Driver
+national_road_type_Local Road,0.04188737368045381,national_road_type,Local Road,Driver
+road_user_Driver,0.4514444569668282,national_road_type,Local Road,Driver
+"national_road_type_Local Road,road_user_Driver",0.016266576505503588,national_road_type,Local Road,Driver
+national_road_type_National or State Highway,0.05924339757316203,national_road_type,National or State Highway,Driver
+road_user_Driver,0.4514444569668282,national_road_type,National or State Highway,Driver
+"national_road_type_National or State Highway,road_user_Driver",0.032645854464855927,national_road_type,National or State Highway,Driver
+national_road_type_Undetermined,0.7994101957248582,national_road_type,Undetermined,Driver
+road_user_Driver,0.4514444569668282,national_road_type,Undetermined,Driver
+"national_road_type_Undetermined,road_user_Driver",0.35679401930951576,national_road_type,Undetermined,Driver
+national_road_type_Sub-arterial Road,0.033810436154626394,national_road_type,Sub-arterial Road,Driver
+road_user_Driver,0.4514444569668282,national_road_type,Sub-arterial Road,Driver
+"national_road_type_Sub-arterial Road,road_user_Driver",0.016135091476013375,national_road_type,Sub-arterial Road,Driver
+national_road_type_Collector Road,0.015515233479845224,national_road_type,Collector Road,Driver
+road_user_Driver,0.4514444569668282,national_road_type,Collector Road,Driver
+road_user_Driver,0.4514444569668282,national_road_type,Pedestrian Thoroughfare,Driver
+road_user_Driver,0.4514444569668282,national_road_type,Access road,Driver
+road_user_Driver,0.4514444569668282,national_road_type,Busway,Driver
+crash_type_Single,0.5575340921897892,crash_type,Single,Driver
+road_user_Driver,0.4514444569668282,crash_type,Single,Driver
+"crash_type_Single,road_user_Driver",0.23868289567602088,crash_type,Single,Driver
+crash_type_Multiple,0.4424659078102108,crash_type,Multiple,Driver
+road_user_Driver,0.4514444569668282,crash_type,Multiple,Driver
+"crash_type_Multiple,road_user_Driver",0.2127615612908073,crash_type,Multiple,Driver
+christmas_period_Yes,0.031462489199444006,christmas_period,Yes,Driver
+road_user_Driver,0.4514444569668282,christmas_period,Yes,Driver
+"christmas_period_Yes,road_user_Driver",0.013580525188774934,christmas_period,Yes,Driver
+christmas_period_No,0.968537510800556,christmas_period,No,Driver
+road_user_Driver,0.4514444569668282,christmas_period,No,Driver
+"christmas_period_No,road_user_Driver",0.4378639317780533,christmas_period,No,Driver
+easter_period_No,0.99382020361396,easter_period,No,Driver
+road_user_Driver,0.4514444569668282,easter_period,No,Driver
+"easter_period_No,road_user_Driver",0.44904015928472146,easter_period,No,Driver
+road_user_Driver,0.4514444569668282,easter_period,Yes,Driver
+state_NSW,0.30566512641346405,state,NSW,Driver
+road_user_Driver,0.4514444569668282,state,NSW,Driver
+"road_user_Driver,state_NSW",0.13837860175062924,state,NSW,Driver
+state_Tas,0.0299034524212029,state,Tas,Driver
+road_user_Driver,0.4514444569668282,state,Tas,Driver
+"road_user_Driver,state_Tas",0.014576054697772269,state,Tas,Driver
+state_Vic,0.21439573237161427,state,Vic,Driver
+road_user_Driver,0.4514444569668282,state,Vic,Driver
+"road_user_Driver,state_Vic",0.09767459333558737,state,Vic,Driver
+state_Qld,0.20352004207520943,state,Qld,Driver
+road_user_Driver,0.4514444569668282,state,Qld,Driver
+"road_user_Driver,state_Qld",0.09061196889439874,state,Qld,Driver
+state_SA,0.0857094556519779,state,SA,Driver
+road_user_Driver,0.4514444569668282,state,SA,Driver
+"road_user_Driver,state_SA",0.0400090161163079,state,SA,Driver
+state_WA,0.12064690634509186,state,WA,Driver
+road_user_Driver,0.4514444569668282,state,WA,Driver
+"road_user_Driver,state_WA",0.05539276456666291,state,WA,Driver
+road_user_Driver,0.4514444569668282,state,ACT,Driver
+state_NT,0.03116195198918066,state,NT,Driver
+road_user_Driver,0.4514444569668282,state,NT,Driver
+"road_user_Driver,state_NT",0.011119876779743793,state,NT,Driver
+national_remoteness_areas_Inner Regional Australia,0.0683534317592697,national_remoteness_areas,Inner Regional Australia,Driver
+road_user_Driver,0.4514444569668282,national_remoteness_areas,Inner Regional Australia,Driver
+"national_remoteness_areas_Inner Regional Australia,road_user_Driver",0.037604718434201136,national_remoteness_areas,Inner Regional Australia,Driver
+national_remoteness_areas_Outer Regional Australia,0.04740974491904279,national_remoteness_areas,Outer Regional Australia,Driver
+road_user_Driver,0.4514444569668282,national_remoteness_areas,Outer Regional Australia,Driver
+"national_remoteness_areas_Outer Regional Australia,road_user_Driver",0.02716105037754987,national_remoteness_areas,Outer Regional Australia,Driver
+national_remoteness_areas_Unknown,0.7933243172170255,national_remoteness_areas,Unknown,Driver
+road_user_Driver,0.4514444569668282,national_remoteness_areas,Unknown,Driver
+"national_remoteness_areas_Unknown,road_user_Driver",0.35376986363124086,national_remoteness_areas,Unknown,Driver
+national_remoteness_areas_Major Cities of Australia,0.07186596040422255,national_remoteness_areas,Major Cities of Australia,Driver
+road_user_Driver,0.4514444569668282,national_remoteness_areas,Major Cities of Australia,Driver
+"national_remoteness_areas_Major Cities of Australia,road_user_Driver",0.023009880160787408,national_remoteness_areas,Major Cities of Australia,Driver
+road_user_Driver,0.4514444569668282,national_remoteness_areas,Very Remote Australia,Driver
+road_user_Driver,0.4514444569668282,national_remoteness_areas,Remote Australia,Driver
+number_fatalities_1,0.8261580074382959,number_fatalities,1,Driver
+road_user_Driver,0.4514444569668282,number_fatalities,1,Driver
+"number_fatalities_1,road_user_Driver",0.3844246590781021,number_fatalities,1,Driver
+number_fatalities_2,0.1240279499605545,number_fatalities,2,Driver
+road_user_Driver,0.4514444569668282,number_fatalities,2,Driver
+"number_fatalities_2,road_user_Driver",0.051692400165295464,number_fatalities,2,Driver
+number_fatalities_3,0.03071114617378564,number_fatalities,3,Driver
+road_user_Driver,0.4514444569668282,number_fatalities,3,Driver
+"number_fatalities_3,road_user_Driver",0.010856906720763365,number_fatalities,3,Driver
+number_fatalities_4,0.011326496111799842,number_fatalities,4,Driver
+road_user_Driver,0.4514444569668282,number_fatalities,4,Driver
+road_user_Driver,0.4514444569668282,number_fatalities,5,Driver
+road_user_Driver,0.4514444569668282,number_fatalities,6,Driver
+road_user_Driver,0.4514444569668282,number_fatalities,10,Driver
+road_user_Driver,0.4514444569668282,number_fatalities,11,Driver
+road_user_Driver,0.4514444569668282,number_fatalities,7,Driver
+road_user_Driver,0.4514444569668282,number_fatalities,12,Driver
+road_user_Driver,0.4514444569668282,number_fatalities,35,Driver
+road_user_Driver,0.4514444569668282,number_fatalities,20,Driver
+speed_limit_category_High (>80),0.48161087944701153,speed_limit_category,High (>80),Driver
+road_user_Driver,0.4514444569668282,speed_limit_category,High (>80),Driver
+"road_user_Driver,speed_limit_category_High (>80)",0.2717419888049889,speed_limit_category,High (>80),Driver
+speed_limit_category_Medium (51-80),0.4228182876892445,speed_limit_category,Medium (51-80),Driver
+road_user_Driver,0.4514444569668282,speed_limit_category,Medium (51-80),Driver
+"road_user_Driver,speed_limit_category_Medium (51-80)",0.15197791051504564,speed_limit_category,Medium (51-80),Driver
+speed_limit_category_Low (≤50),0.06998760284007664,speed_limit_category,Low (≤50),Driver
+road_user_Driver,0.4514444569668282,speed_limit_category,Low (≤50),Driver
+"road_user_Driver,speed_limit_category_Low (≤50)",0.017825613283744695,speed_limit_category,Low (≤50),Driver
+speed_limit_category_Undetermined,0.025583230023667306,speed_limit_category,Undetermined,Driver
+road_user_Driver,0.4514444569668282,speed_limit_category,Undetermined,Driver
+gender_Male,0.719129193433262,gender,Male,Passenger
+road_user_Passenger,0.22701829520267477,gender,Male,Passenger
+"gender_Male,road_user_Passenger",0.119425973928397,gender,Male,Passenger
+gender_Female,0.28026973214621137,gender,Female,Passenger
+road_user_Passenger,0.22701829520267477,gender,Female,Passenger
+"gender_Female,road_user_Passenger",0.10716029903452422,gender,Female,Passenger
+road_user_Passenger,0.22701829520267477,gender,Undetermined,Passenger
+age_group_65_to_74,0.07834629400052594,age_group,65_to_74,Passenger
+road_user_Passenger,0.22701829520267477,age_group,65_to_74,Passenger
+"age_group_65_to_74,road_user_Passenger",0.01562793493369398,age_group,65_to_74,Passenger
+age_group_17_to_25,0.2555693301776926,age_group,17_to_25,Passenger
+road_user_Passenger,0.22701829520267477,age_group,17_to_25,Passenger
+"age_group_17_to_25,road_user_Passenger",0.06857883466696721,age_group,17_to_25,Passenger
+age_group_26_to_39,0.23175175626432248,age_group,26_to_39,Passenger
+road_user_Passenger,0.22701829520267477,age_group,26_to_39,Passenger
+"age_group_26_to_39,road_user_Passenger",0.037604718434201136,age_group,26_to_39,Passenger
+age_group_40_to_64,0.2590818588226455,age_group,40_to_64,Passenger
+road_user_Passenger,0.22701829520267477,age_group,40_to_64,Passenger
+"age_group_40_to_64,road_user_Passenger",0.039426725271422665,age_group,40_to_64,Passenger
+age_group_75_or_older,0.0985762049663774,age_group,75_or_older,Passenger
+road_user_Passenger,0.22701829520267477,age_group,75_or_older,Passenger
+"age_group_75_or_older,road_user_Passenger",0.02167624629024381,age_group,75_or_older,Passenger
+age_group_0_to_16,0.07475863105300726,age_group,0_to_16,Passenger
+road_user_Passenger,0.22701829520267477,age_group,0_to_16,Passenger
+"age_group_0_to_16,road_user_Passenger",0.04303317179458282,age_group,0_to_16,Passenger
+road_user_Passenger,0.22701829520267477,age_group,Undetermined,Passenger
+day_of_week_Weekday,0.5881888876366506,day_of_week,Weekday,Passenger
+road_user_Passenger,0.22701829520267477,day_of_week,Weekday,Passenger
+"day_of_week_Weekday,road_user_Passenger",0.12183027161050378,day_of_week,Weekday,Passenger
+day_of_week_Weekend,0.411585709455652,day_of_week,Weekend,Passenger
+road_user_Passenger,0.22701829520267477,day_of_week,Weekend,Passenger
+"day_of_week_Weekend,road_user_Passenger",0.10513167286524663,day_of_week,Weekend,Passenger
+road_user_Passenger,0.22701829520267477,day_of_week,Unknown,Passenger
+time_of_day_Night,0.4287538975919456,time_of_day,Night,Passenger
+road_user_Passenger,0.22701829520267477,time_of_day,Night,Passenger
+"road_user_Passenger,time_of_day_Night",0.09964686877794057,time_of_day,Night,Passenger
+time_of_day_Day,0.5704384086554717,time_of_day,Day,Passenger
+road_user_Passenger,0.22701829520267477,time_of_day,Day,Passenger
+"road_user_Passenger,time_of_day_Day",0.127239941395244,time_of_day,Day,Passenger
+road_user_Passenger,0.22701829520267477,time_of_day,Unknown,Passenger
+bus_involvement_No,0.9801269769713362,bus_involvement,No,Passenger
+road_user_Passenger,0.22701829520267477,bus_involvement,No,Passenger
+"bus_involvement_No,road_user_Passenger",0.22059431233329577,bus_involvement,No,Passenger
+road_user_Passenger,0.22701829520267477,bus_involvement,Undetermined,Passenger
+bus_involvement_Yes,0.018595739885044517,bus_involvement,Yes,Passenger
+road_user_Passenger,0.22701829520267477,bus_involvement,Yes,Passenger
+heavy_rigid_truck_involvement_No,0.6261880611593222,heavy_rigid_truck_involvement,No,Passenger
+road_user_Passenger,0.22701829520267477,heavy_rigid_truck_involvement,No,Passenger
+"heavy_rigid_truck_involvement_No,road_user_Passenger",0.13017017919531162,heavy_rigid_truck_involvement,No,Passenger
+heavy_rigid_truck_involvement_Undetermined,0.33864908523986625,heavy_rigid_truck_involvement,Undetermined,Passenger
+road_user_Passenger,0.22701829520267477,heavy_rigid_truck_involvement,Undetermined,Passenger
+"heavy_rigid_truck_involvement_Undetermined,road_user_Passenger",0.09076223749953041,heavy_rigid_truck_involvement,Undetermined,Passenger
+heavy_rigid_truck_involvement_Yes,0.03516285360081145,heavy_rigid_truck_involvement,Yes,Passenger
+road_user_Passenger,0.22701829520267477,heavy_rigid_truck_involvement,Yes,Passenger
+articulated_truck_involvement_No,0.8997708403771743,articulated_truck_involvement,No,Passenger
+road_user_Passenger,0.22701829520267477,articulated_truck_involvement,No,Passenger
+"articulated_truck_involvement_No,road_user_Passenger",0.20568015327397723,articulated_truck_involvement,No,Passenger
+road_user_Passenger,0.22701829520267477,articulated_truck_involvement,Undetermined,Passenger
+articulated_truck_involvement_Yes,0.09906457793305534,articulated_truck_involvement,Yes,Passenger
+road_user_Passenger,0.22701829520267477,articulated_truck_involvement,Yes,Passenger
+"articulated_truck_involvement_Yes,road_user_Passenger",0.021169089747924415,articulated_truck_involvement,Yes,Passenger
+national_road_type_Arterial Road,0.04695893910364777,national_road_type,Arterial Road,Passenger
+road_user_Passenger,0.22701829520267477,national_road_type,Arterial Road,Passenger
+national_road_type_Local Road,0.04188737368045381,national_road_type,Local Road,Passenger
+road_user_Passenger,0.22701829520267477,national_road_type,Local Road,Passenger
+national_road_type_National or State Highway,0.05924339757316203,national_road_type,National or State Highway,Passenger
+road_user_Passenger,0.22701829520267477,national_road_type,National or State Highway,Passenger
+"national_road_type_National or State Highway,road_user_Passenger",0.012772831436192194,national_road_type,National or State Highway,Passenger
+national_road_type_Undetermined,0.7994101957248582,national_road_type,Undetermined,Passenger
+road_user_Passenger,0.22701829520267477,national_road_type,Undetermined,Passenger
+"national_road_type_Undetermined,road_user_Passenger",0.1917803072992975,national_road_type,Undetermined,Passenger
+national_road_type_Sub-arterial Road,0.033810436154626394,national_road_type,Sub-arterial Road,Passenger
+road_user_Passenger,0.22701829520267477,national_road_type,Sub-arterial Road,Passenger
+national_road_type_Collector Road,0.015515233479845224,national_road_type,Collector Road,Passenger
+road_user_Passenger,0.22701829520267477,national_road_type,Collector Road,Passenger
+road_user_Passenger,0.22701829520267477,national_road_type,Pedestrian Thoroughfare,Passenger
+road_user_Passenger,0.22701829520267477,national_road_type,Access road,Passenger
+road_user_Passenger,0.22701829520267477,national_road_type,Busway,Passenger
+crash_type_Single,0.5575340921897892,crash_type,Single,Passenger
+road_user_Passenger,0.22701829520267477,crash_type,Single,Passenger
+"crash_type_Single,road_user_Passenger",0.12019610052969683,crash_type,Single,Passenger
+crash_type_Multiple,0.4424659078102108,crash_type,Multiple,Passenger
+road_user_Passenger,0.22701829520267477,crash_type,Multiple,Passenger
+"crash_type_Multiple,road_user_Passenger",0.10682219467297795,crash_type,Multiple,Passenger
+christmas_period_Yes,0.031462489199444006,christmas_period,Yes,Passenger
+road_user_Passenger,0.22701829520267477,christmas_period,Yes,Passenger
+christmas_period_No,0.968537510800556,christmas_period,No,Passenger
+road_user_Passenger,0.22701829520267477,christmas_period,No,Passenger
+"christmas_period_No,road_user_Passenger",0.21830271610503776,christmas_period,No,Passenger
+easter_period_No,0.99382020361396,easter_period,No,Passenger
+road_user_Passenger,0.22701829520267477,easter_period,No,Passenger
+"easter_period_No,road_user_Passenger",0.22545925842443368,easter_period,No,Passenger
+road_user_Passenger,0.22701829520267477,easter_period,Yes,Passenger
+state_NSW,0.30566512641346405,state,NSW,Passenger
+road_user_Passenger,0.22701829520267477,state,NSW,Passenger
+"road_user_Passenger,state_NSW",0.067752357338743,state,NSW,Passenger
+state_Tas,0.0299034524212029,state,Tas,Passenger
+road_user_Passenger,0.22701829520267477,state,Tas,Passenger
+state_Vic,0.21439573237161427,state,Vic,Passenger
+road_user_Passenger,0.22701829520267477,state,Vic,Passenger
+"road_user_Passenger,state_Vic",0.04519328299335061,state,Vic,Passenger
+state_Qld,0.20352004207520943,state,Qld,Passenger
+road_user_Passenger,0.22701829520267477,state,Qld,Passenger
+"road_user_Passenger,state_Qld",0.04617002892670649,state,Qld,Passenger
+state_SA,0.0857094556519779,state,SA,Passenger
+road_user_Passenger,0.22701829520267477,state,SA,Passenger
+"road_user_Passenger,state_SA",0.019234381456854126,state,SA,Passenger
+state_WA,0.12064690634509186,state,WA,Passenger
+road_user_Passenger,0.22701829520267477,state,WA,Passenger
+"road_user_Passenger,state_WA",0.02922724369811037,state,WA,Passenger
+road_user_Passenger,0.22701829520267477,state,ACT,Passenger
+state_NT,0.03116195198918066,state,NT,Passenger
+road_user_Passenger,0.22701829520267477,state,NT,Passenger
+"road_user_Passenger,state_NT",0.010518802359217101,state,NT,Passenger
+national_remoteness_areas_Inner Regional Australia,0.0683534317592697,national_remoteness_areas,Inner Regional Australia,Passenger
+road_user_Passenger,0.22701829520267477,national_remoteness_areas,Inner Regional Australia,Passenger
+"national_remoteness_areas_Inner Regional Australia,road_user_Passenger",0.011476764716931515,national_remoteness_areas,Inner Regional Australia,Passenger
+national_remoteness_areas_Outer Regional Australia,0.04740974491904279,national_remoteness_areas,Outer Regional Australia,Passenger
+road_user_Passenger,0.22701829520267477,national_remoteness_areas,Outer Regional Australia,Passenger
+national_remoteness_areas_Unknown,0.7933243172170255,national_remoteness_areas,Unknown,Passenger
+road_user_Passenger,0.22701829520267477,national_remoteness_areas,Unknown,Passenger
+"national_remoteness_areas_Unknown,road_user_Passenger",0.19097261354671474,national_remoteness_areas,Unknown,Passenger
+national_remoteness_areas_Major Cities of Australia,0.07186596040422255,national_remoteness_areas,Major Cities of Australia,Passenger
+road_user_Passenger,0.22701829520267477,national_remoteness_areas,Major Cities of Australia,Passenger
+road_user_Passenger,0.22701829520267477,national_remoteness_areas,Very Remote Australia,Passenger
+road_user_Passenger,0.22701829520267477,national_remoteness_areas,Remote Australia,Passenger
+number_fatalities_1,0.8261580074382959,number_fatalities,1,Passenger
+road_user_Passenger,0.22701829520267477,number_fatalities,1,Passenger
+"number_fatalities_1,road_user_Passenger",0.13264961117998422,number_fatalities,1,Passenger
+number_fatalities_2,0.1240279499605545,number_fatalities,2,Passenger
+road_user_Passenger,0.22701829520267477,number_fatalities,2,Passenger
+"number_fatalities_2,road_user_Passenger",0.06072730004883729,number_fatalities,2,Passenger
+number_fatalities_3,0.03071114617378564,number_fatalities,3,Passenger
+road_user_Passenger,0.22701829520267477,number_fatalities,3,Passenger
+"number_fatalities_3,road_user_Passenger",0.019478567940193096,number_fatalities,3,Passenger
+number_fatalities_4,0.011326496111799842,number_fatalities,4,Passenger
+road_user_Passenger,0.22701829520267477,number_fatalities,4,Passenger
+road_user_Passenger,0.22701829520267477,number_fatalities,5,Passenger
+road_user_Passenger,0.22701829520267477,number_fatalities,6,Passenger
+road_user_Passenger,0.22701829520267477,number_fatalities,10,Passenger
+road_user_Passenger,0.22701829520267477,number_fatalities,11,Passenger
+road_user_Passenger,0.22701829520267477,number_fatalities,7,Passenger
+road_user_Passenger,0.22701829520267477,number_fatalities,12,Passenger
+road_user_Passenger,0.22701829520267477,number_fatalities,35,Passenger
+road_user_Passenger,0.22701829520267477,number_fatalities,20,Passenger
+speed_limit_category_High (>80),0.48161087944701153,speed_limit_category,High (>80),Passenger
+road_user_Passenger,0.22701829520267477,speed_limit_category,High (>80),Passenger
+"road_user_Passenger,speed_limit_category_High (>80)",0.13030166422480183,speed_limit_category,High (>80),Passenger
+speed_limit_category_Medium (51-80),0.4228182876892445,speed_limit_category,Medium (51-80),Passenger
+road_user_Passenger,0.22701829520267477,speed_limit_category,Medium (51-80),Passenger
+"road_user_Passenger,speed_limit_category_Medium (51-80)",0.07924790563131598,speed_limit_category,Medium (51-80),Passenger
+speed_limit_category_Low (≤50),0.06998760284007664,speed_limit_category,Low (≤50),Passenger
+road_user_Passenger,0.22701829520267477,speed_limit_category,Low (≤50),Passenger
+speed_limit_category_Undetermined,0.025583230023667306,speed_limit_category,Undetermined,Passenger
+road_user_Passenger,0.22701829520267477,speed_limit_category,Undetermined,Passenger
+gender_Male,0.719129193433262,gender,Male,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,gender,Male,Motorcycle rider
+"gender_Male,road_user_Motorcycle rider",0.1284796573875803,gender,Male,Motorcycle rider
+gender_Female,0.28026973214621137,gender,Female,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,gender,Female,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,gender,Undetermined,Motorcycle rider
+age_group_65_to_74,0.07834629400052594,age_group,65_to_74,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,age_group,65_to_74,Motorcycle rider
+age_group_17_to_25,0.2555693301776926,age_group,17_to_25,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,age_group,17_to_25,Motorcycle rider
+"age_group_17_to_25,road_user_Motorcycle rider",0.03786768849318156,age_group,17_to_25,Motorcycle rider
+age_group_26_to_39,0.23175175626432248,age_group,26_to_39,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,age_group,26_to_39,Motorcycle rider
+"age_group_26_to_39,road_user_Motorcycle rider",0.04526841729591645,age_group,26_to_39,Motorcycle rider
+age_group_40_to_64,0.2590818588226455,age_group,40_to_64,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,age_group,40_to_64,Motorcycle rider
+"age_group_40_to_64,road_user_Motorcycle rider",0.040459821931702916,age_group,40_to_64,Motorcycle rider
+age_group_75_or_older,0.0985762049663774,age_group,75_or_older,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,age_group,75_or_older,Motorcycle rider
+age_group_0_to_16,0.07475863105300726,age_group,0_to_16,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,age_group,0_to_16,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,age_group,Undetermined,Motorcycle rider
+day_of_week_Weekday,0.5881888876366506,day_of_week,Weekday,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,day_of_week,Weekday,Motorcycle rider
+"day_of_week_Weekday,road_user_Motorcycle rider",0.07173447537473233,day_of_week,Weekday,Motorcycle rider
+day_of_week_Weekend,0.411585709455652,day_of_week,Weekend,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,day_of_week,Weekend,Motorcycle rider
+"day_of_week_Weekend,road_user_Motorcycle rider",0.0615537773770615,day_of_week,Weekend,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,day_of_week,Unknown,Motorcycle rider
+time_of_day_Night,0.4287538975919456,time_of_day,Night,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,time_of_day,Night,Motorcycle rider
+"road_user_Motorcycle rider,time_of_day_Night",0.04586949171644314,time_of_day,Night,Motorcycle rider
+time_of_day_Day,0.5704384086554717,time_of_day,Day,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,time_of_day,Day,Motorcycle rider
+"road_user_Motorcycle rider,time_of_day_Day",0.08730605958150194,time_of_day,Day,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,time_of_day,Unknown,Motorcycle rider
+bus_involvement_No,0.9801269769713362,bus_involvement,No,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,bus_involvement,No,Motorcycle rider
+"bus_involvement_No,road_user_Motorcycle rider",0.13148502949021376,bus_involvement,No,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,bus_involvement,Undetermined,Motorcycle rider
+bus_involvement_Yes,0.018595739885044517,bus_involvement,Yes,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,bus_involvement,Yes,Motorcycle rider
+heavy_rigid_truck_involvement_No,0.6261880611593222,heavy_rigid_truck_involvement,No,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,heavy_rigid_truck_involvement,No,Motorcycle rider
+"heavy_rigid_truck_involvement_No,road_user_Motorcycle rider",0.09583380292272436,heavy_rigid_truck_involvement,No,Motorcycle rider
+heavy_rigid_truck_involvement_Undetermined,0.33864908523986625,heavy_rigid_truck_involvement,Undetermined,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,heavy_rigid_truck_involvement,Undetermined,Motorcycle rider
+"heavy_rigid_truck_involvement_Undetermined,road_user_Motorcycle rider",0.033754085427702016,heavy_rigid_truck_involvement,Undetermined,Motorcycle rider
+heavy_rigid_truck_involvement_Yes,0.03516285360081145,heavy_rigid_truck_involvement,Yes,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,heavy_rigid_truck_involvement,Yes,Motorcycle rider
+articulated_truck_involvement_No,0.8997708403771743,articulated_truck_involvement,No,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,articulated_truck_involvement,No,Motorcycle rider
+"articulated_truck_involvement_No,road_user_Motorcycle rider",0.12817912017731695,articulated_truck_involvement,No,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,articulated_truck_involvement,Undetermined,Motorcycle rider
+articulated_truck_involvement_Yes,0.09906457793305534,articulated_truck_involvement,Yes,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,articulated_truck_involvement,Yes,Motorcycle rider
+national_road_type_Arterial Road,0.04695893910364777,national_road_type,Arterial Road,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,national_road_type,Arterial Road,Motorcycle rider
+national_road_type_Local Road,0.04188737368045381,national_road_type,Local Road,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,national_road_type,Local Road,Motorcycle rider
+national_road_type_National or State Highway,0.05924339757316203,national_road_type,National or State Highway,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,national_road_type,National or State Highway,Motorcycle rider
+national_road_type_Undetermined,0.7994101957248582,national_road_type,Undetermined,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,national_road_type,Undetermined,Motorcycle rider
+"national_road_type_Undetermined,road_user_Motorcycle rider",0.09686689958300462,national_road_type,Undetermined,Motorcycle rider
+national_road_type_Sub-arterial Road,0.033810436154626394,national_road_type,Sub-arterial Road,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,national_road_type,Sub-arterial Road,Motorcycle rider
+national_road_type_Collector Road,0.015515233479845224,national_road_type,Collector Road,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,national_road_type,Collector Road,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,national_road_type,Pedestrian Thoroughfare,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,national_road_type,Access road,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,national_road_type,Busway,Motorcycle rider
+crash_type_Single,0.5575340921897892,crash_type,Single,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,crash_type,Single,Motorcycle rider
+"crash_type_Single,road_user_Motorcycle rider",0.05700815207182839,crash_type,Single,Motorcycle rider
+crash_type_Multiple,0.4424659078102108,crash_type,Multiple,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,crash_type,Multiple,Motorcycle rider
+"crash_type_Multiple,road_user_Motorcycle rider",0.07633645140688981,crash_type,Multiple,Motorcycle rider
+christmas_period_Yes,0.031462489199444006,christmas_period,Yes,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,christmas_period,Yes,Motorcycle rider
+christmas_period_No,0.968537510800556,christmas_period,No,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,christmas_period,No,Motorcycle rider
+"christmas_period_No,road_user_Motorcycle rider",0.12928735114016304,christmas_period,No,Motorcycle rider
+easter_period_No,0.99382020361396,easter_period,No,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,easter_period,No,Motorcycle rider
+"easter_period_No,road_user_Motorcycle rider",0.13221758894023067,easter_period,No,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,easter_period,Yes,Motorcycle rider
+state_NSW,0.30566512641346405,state,NSW,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,state,NSW,Motorcycle rider
+"road_user_Motorcycle rider,state_NSW",0.037604718434201136,state,NSW,Motorcycle rider
+state_Tas,0.0299034524212029,state,Tas,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,state,Tas,Motorcycle rider
+state_Vic,0.21439573237161427,state,Vic,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,state,Vic,Motorcycle rider
+"road_user_Motorcycle rider,state_Vic",0.027236184680115707,state,Vic,Motorcycle rider
+state_Qld,0.20352004207520943,state,Qld,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,state,Qld,Motorcycle rider
+"road_user_Motorcycle rider,state_Qld",0.032063563619970696,state,Qld,Motorcycle rider
+state_SA,0.0857094556519779,state,SA,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,state,SA,Motorcycle rider
+"road_user_Motorcycle rider,state_SA",0.010575153086141478,state,SA,Motorcycle rider
+state_WA,0.12064690634509186,state,WA,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,state,WA,Motorcycle rider
+"road_user_Motorcycle rider,state_WA",0.017543859649122806,state,WA,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,state,ACT,Motorcycle rider
+state_NT,0.03116195198918066,state,NT,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,state,NT,Motorcycle rider
+national_remoteness_areas_Inner Regional Australia,0.0683534317592697,national_remoteness_areas,Inner Regional Australia,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,national_remoteness_areas,Inner Regional Australia,Motorcycle rider
+"national_remoteness_areas_Inner Regional Australia,road_user_Motorcycle rider",0.012228107742589879,national_remoteness_areas,Inner Regional Australia,Motorcycle rider
+national_remoteness_areas_Outer Regional Australia,0.04740974491904279,national_remoteness_areas,Outer Regional Australia,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,national_remoteness_areas,Outer Regional Australia,Motorcycle rider
+national_remoteness_areas_Unknown,0.7933243172170255,national_remoteness_areas,Unknown,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,national_remoteness_areas,Unknown,Motorcycle rider
+"national_remoteness_areas_Unknown,road_user_Motorcycle rider",0.09543934783425373,national_remoteness_areas,Unknown,Motorcycle rider
+national_remoteness_areas_Major Cities of Australia,0.07186596040422255,national_remoteness_areas,Major Cities of Australia,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,national_remoteness_areas,Major Cities of Australia,Motorcycle rider
+"national_remoteness_areas_Major Cities of Australia,road_user_Motorcycle rider",0.016661031593974227,national_remoteness_areas,Major Cities of Australia,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,national_remoteness_areas,Very Remote Australia,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,national_remoteness_areas,Remote Australia,Motorcycle rider
+number_fatalities_1,0.8261580074382959,number_fatalities,1,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,number_fatalities,1,Motorcycle rider
+"number_fatalities_1,road_user_Motorcycle rider",0.12874262744656073,number_fatalities,1,Motorcycle rider
+number_fatalities_2,0.1240279499605545,number_fatalities,2,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,number_fatalities,2,Motorcycle rider
+number_fatalities_3,0.03071114617378564,number_fatalities,3,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,number_fatalities,3,Motorcycle rider
+number_fatalities_4,0.011326496111799842,number_fatalities,4,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,number_fatalities,4,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,number_fatalities,5,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,number_fatalities,6,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,number_fatalities,10,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,number_fatalities,11,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,number_fatalities,7,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,number_fatalities,12,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,number_fatalities,35,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,number_fatalities,20,Motorcycle rider
+speed_limit_category_High (>80),0.48161087944701153,speed_limit_category,High (>80),Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,speed_limit_category,High (>80),Motorcycle rider
+"road_user_Motorcycle rider,speed_limit_category_High (>80)",0.046019760321574815,speed_limit_category,High (>80),Motorcycle rider
+speed_limit_category_Medium (51-80),0.4228182876892445,speed_limit_category,Medium (51-80),Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,speed_limit_category,Medium (51-80),Motorcycle rider
+"road_user_Motorcycle rider,speed_limit_category_Medium (51-80)",0.07034449077726436,speed_limit_category,Medium (51-80),Motorcycle rider
+speed_limit_category_Low (≤50),0.06998760284007664,speed_limit_category,Low (≤50),Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,speed_limit_category,Low (≤50),Motorcycle rider
+"road_user_Motorcycle rider,speed_limit_category_Low (≤50)",0.014369435365716218,speed_limit_category,Low (≤50),Motorcycle rider
+speed_limit_category_Undetermined,0.025583230023667306,speed_limit_category,Undetermined,Motorcycle rider
+road_user_Motorcycle rider,0.1333446034787182,speed_limit_category,Undetermined,Motorcycle rider
+gender_Male,0.719129193433262,gender,Male,Pedestrian
+road_user_Pedestrian,0.15370599947405988,gender,Male,Pedestrian
+"gender_Male,road_user_Pedestrian",0.10400465832675908,gender,Male,Pedestrian
+gender_Female,0.28026973214621137,gender,Female,Pedestrian
+road_user_Pedestrian,0.15370599947405988,gender,Female,Pedestrian
+"gender_Female,road_user_Pedestrian",0.04962620684473496,gender,Female,Pedestrian
+road_user_Pedestrian,0.15370599947405988,gender,Undetermined,Pedestrian
+age_group_65_to_74,0.07834629400052594,age_group,65_to_74,Pedestrian
+road_user_Pedestrian,0.15370599947405988,age_group,65_to_74,Pedestrian
+"age_group_65_to_74,road_user_Pedestrian",0.018370336977347006,age_group,65_to_74,Pedestrian
+age_group_17_to_25,0.2555693301776926,age_group,17_to_25,Pedestrian
+road_user_Pedestrian,0.15370599947405988,age_group,17_to_25,Pedestrian
+"age_group_17_to_25,road_user_Pedestrian",0.021976783500507156,age_group,17_to_25,Pedestrian
+age_group_26_to_39,0.23175175626432248,age_group,26_to_39,Pedestrian
+road_user_Pedestrian,0.15370599947405988,age_group,26_to_39,Pedestrian
+"age_group_26_to_39,road_user_Pedestrian",0.026653893835230473,age_group,26_to_39,Pedestrian
+age_group_40_to_64,0.2590818588226455,age_group,40_to_64,Pedestrian
+road_user_Pedestrian,0.15370599947405988,age_group,40_to_64,Pedestrian
+"age_group_40_to_64,road_user_Pedestrian",0.0367031068034111,age_group,40_to_64,Pedestrian
+age_group_75_or_older,0.0985762049663774,age_group,75_or_older,Pedestrian
+road_user_Pedestrian,0.15370599947405988,age_group,75_or_older,Pedestrian
+"age_group_75_or_older,road_user_Pedestrian",0.03172545925842443,age_group,75_or_older,Pedestrian
+age_group_0_to_16,0.07475863105300726,age_group,0_to_16,Pedestrian
+road_user_Pedestrian,0.15370599947405988,age_group,0_to_16,Pedestrian
+"age_group_0_to_16,road_user_Pedestrian",0.017806829708103235,age_group,0_to_16,Pedestrian
+road_user_Pedestrian,0.15370599947405988,age_group,Undetermined,Pedestrian
+day_of_week_Weekday,0.5881888876366506,day_of_week,Weekday,Pedestrian
+road_user_Pedestrian,0.15370599947405988,day_of_week,Weekday,Pedestrian
+"day_of_week_Weekday,road_user_Pedestrian",0.09810661557534092,day_of_week,Weekday,Pedestrian
+day_of_week_Weekend,0.411585709455652,day_of_week,Weekend,Pedestrian
+road_user_Pedestrian,0.15370599947405988,day_of_week,Weekend,Pedestrian
+"day_of_week_Weekend,road_user_Pedestrian",0.0555806003230775,day_of_week,Weekend,Pedestrian
+road_user_Pedestrian,0.15370599947405988,day_of_week,Unknown,Pedestrian
+time_of_day_Night,0.4287538975919456,time_of_day,Night,Pedestrian
+road_user_Pedestrian,0.15370599947405988,time_of_day,Night,Pedestrian
+"road_user_Pedestrian,time_of_day_Night",0.07870318193771367,time_of_day,Night,Pedestrian
+time_of_day_Day,0.5704384086554717,time_of_day,Day,Pedestrian
+road_user_Pedestrian,0.15370599947405988,time_of_day,Day,Pedestrian
+"road_user_Pedestrian,time_of_day_Day",0.07494646680942184,time_of_day,Day,Pedestrian
+road_user_Pedestrian,0.15370599947405988,time_of_day,Unknown,Pedestrian
+bus_involvement_No,0.9801269769713362,bus_involvement,No,Pedestrian
+road_user_Pedestrian,0.15370599947405988,bus_involvement,No,Pedestrian
+"bus_involvement_No,road_user_Pedestrian",0.14865321762650738,bus_involvement,No,Pedestrian
+road_user_Pedestrian,0.15370599947405988,bus_involvement,Undetermined,Pedestrian
+bus_involvement_Yes,0.018595739885044517,bus_involvement,Yes,Pedestrian
+road_user_Pedestrian,0.15370599947405988,bus_involvement,Yes,Pedestrian
+heavy_rigid_truck_involvement_No,0.6261880611593222,heavy_rigid_truck_involvement,No,Pedestrian
+road_user_Pedestrian,0.15370599947405988,heavy_rigid_truck_involvement,No,Pedestrian
+"heavy_rigid_truck_involvement_No,road_user_Pedestrian",0.09029264810849394,heavy_rigid_truck_involvement,No,Pedestrian
+heavy_rigid_truck_involvement_Undetermined,0.33864908523986625,heavy_rigid_truck_involvement,Undetermined,Pedestrian
+road_user_Pedestrian,0.15370599947405988,heavy_rigid_truck_involvement,Undetermined,Pedestrian
+"heavy_rigid_truck_involvement_Undetermined,road_user_Pedestrian",0.058886509635974305,heavy_rigid_truck_involvement,Undetermined,Pedestrian
+heavy_rigid_truck_involvement_Yes,0.03516285360081145,heavy_rigid_truck_involvement,Yes,Pedestrian
+road_user_Pedestrian,0.15370599947405988,heavy_rigid_truck_involvement,Yes,Pedestrian
+articulated_truck_involvement_No,0.8997708403771743,articulated_truck_involvement,No,Pedestrian
+road_user_Pedestrian,0.15370599947405988,articulated_truck_involvement,No,Pedestrian
+"articulated_truck_involvement_No,road_user_Pedestrian",0.14500920395206432,articulated_truck_involvement,No,Pedestrian
+road_user_Pedestrian,0.15370599947405988,articulated_truck_involvement,Undetermined,Pedestrian
+articulated_truck_involvement_Yes,0.09906457793305534,articulated_truck_involvement,Yes,Pedestrian
+road_user_Pedestrian,0.15370599947405988,articulated_truck_involvement,Yes,Pedestrian
+national_road_type_Arterial Road,0.04695893910364777,national_road_type,Arterial Road,Pedestrian
+road_user_Pedestrian,0.15370599947405988,national_road_type,Arterial Road,Pedestrian
+national_road_type_Local Road,0.04188737368045381,national_road_type,Local Road,Pedestrian
+road_user_Pedestrian,0.15370599947405988,national_road_type,Local Road,Pedestrian
+national_road_type_National or State Highway,0.05924339757316203,national_road_type,National or State Highway,Pedestrian
+road_user_Pedestrian,0.15370599947405988,national_road_type,National or State Highway,Pedestrian
+national_road_type_Undetermined,0.7994101957248582,national_road_type,Undetermined,Pedestrian
+road_user_Pedestrian,0.15370599947405988,national_road_type,Undetermined,Pedestrian
+"national_road_type_Undetermined,road_user_Pedestrian",0.12662008339907585,national_road_type,Undetermined,Pedestrian
+national_road_type_Sub-arterial Road,0.033810436154626394,national_road_type,Sub-arterial Road,Pedestrian
+road_user_Pedestrian,0.15370599947405988,national_road_type,Sub-arterial Road,Pedestrian
+national_road_type_Collector Road,0.015515233479845224,national_road_type,Collector Road,Pedestrian
+road_user_Pedestrian,0.15370599947405988,national_road_type,Collector Road,Pedestrian
+road_user_Pedestrian,0.15370599947405988,national_road_type,Pedestrian Thoroughfare,Pedestrian
+road_user_Pedestrian,0.15370599947405988,national_road_type,Access road,Pedestrian
+road_user_Pedestrian,0.15370599947405988,national_road_type,Busway,Pedestrian
+crash_type_Single,0.5575340921897892,crash_type,Single,Pedestrian
+road_user_Pedestrian,0.15370599947405988,crash_type,Single,Pedestrian
+"crash_type_Single,road_user_Pedestrian",0.13409594650437656,crash_type,Single,Pedestrian
+crash_type_Multiple,0.4424659078102108,crash_type,Multiple,Pedestrian
+road_user_Pedestrian,0.15370599947405988,crash_type,Multiple,Pedestrian
+"crash_type_Multiple,road_user_Pedestrian",0.01961005296968331,crash_type,Multiple,Pedestrian
+christmas_period_Yes,0.031462489199444006,christmas_period,Yes,Pedestrian
+road_user_Pedestrian,0.15370599947405988,christmas_period,Yes,Pedestrian
+christmas_period_No,0.968537510800556,christmas_period,No,Pedestrian
+road_user_Pedestrian,0.15370599947405988,christmas_period,No,Pedestrian
+"christmas_period_No,road_user_Pedestrian",0.1497990157406364,christmas_period,No,Pedestrian
+easter_period_No,0.99382020361396,easter_period,No,Pedestrian
+road_user_Pedestrian,0.15370599947405988,easter_period,No,Pedestrian
+"easter_period_No,road_user_Pedestrian",0.1528231714189113,easter_period,No,Pedestrian
+road_user_Pedestrian,0.15370599947405988,easter_period,Yes,Pedestrian
+state_NSW,0.30566512641346405,state,NSW,Pedestrian
+road_user_Pedestrian,0.15370599947405988,state,NSW,Pedestrian
+"road_user_Pedestrian,state_NSW",0.052800631128141554,state,NSW,Pedestrian
+state_Tas,0.0299034524212029,state,Tas,Pedestrian
+road_user_Pedestrian,0.15370599947405988,state,Tas,Pedestrian
+state_Vic,0.21439573237161427,state,Vic,Pedestrian
+road_user_Pedestrian,0.15370599947405988,state,Vic,Pedestrian
+"road_user_Pedestrian,state_Vic",0.03621473383673316,state,Vic,Pedestrian
+state_Qld,0.20352004207520943,state,Qld,Pedestrian
+road_user_Pedestrian,0.15370599947405988,state,Qld,Pedestrian
+"road_user_Pedestrian,state_Qld",0.026991998196776737,state,Qld,Pedestrian
+state_SA,0.0857094556519779,state,SA,Pedestrian
+road_user_Pedestrian,0.15370599947405988,state,SA,Pedestrian
+"road_user_Pedestrian,state_SA",0.012303242045155717,state,SA,Pedestrian
+state_WA,0.12064690634509186,state,WA,Pedestrian
+road_user_Pedestrian,0.15370599947405988,state,WA,Pedestrian
+"road_user_Pedestrian,state_WA",0.014444569668282054,state,WA,Pedestrian
+road_user_Pedestrian,0.15370599947405988,state,ACT,Pedestrian
+state_NT,0.03116195198918066,state,NT,Pedestrian
+road_user_Pedestrian,0.15370599947405988,state,NT,Pedestrian
+national_remoteness_areas_Inner Regional Australia,0.0683534317592697,national_remoteness_areas,Inner Regional Australia,Pedestrian
+road_user_Pedestrian,0.15370599947405988,national_remoteness_areas,Inner Regional Australia,Pedestrian
+national_remoteness_areas_Outer Regional Australia,0.04740974491904279,national_remoteness_areas,Outer Regional Australia,Pedestrian
+road_user_Pedestrian,0.15370599947405988,national_remoteness_areas,Outer Regional Australia,Pedestrian
+national_remoteness_areas_Unknown,0.7933243172170255,national_remoteness_areas,Unknown,Pedestrian
+road_user_Pedestrian,0.15370599947405988,national_remoteness_areas,Unknown,Pedestrian
+"national_remoteness_areas_Unknown,road_user_Pedestrian",0.12607535970547354,national_remoteness_areas,Unknown,Pedestrian
+national_remoteness_areas_Major Cities of Australia,0.07186596040422255,national_remoteness_areas,Major Cities of Australia,Pedestrian
+road_user_Pedestrian,0.15370599947405988,national_remoteness_areas,Major Cities of Australia,Pedestrian
+"national_remoteness_areas_Major Cities of Australia,road_user_Pedestrian",0.01835155340170555,national_remoteness_areas,Major Cities of Australia,Pedestrian
+road_user_Pedestrian,0.15370599947405988,national_remoteness_areas,Very Remote Australia,Pedestrian
+road_user_Pedestrian,0.15370599947405988,national_remoteness_areas,Remote Australia,Pedestrian
+number_fatalities_1,0.8261580074382959,number_fatalities,1,Pedestrian
+road_user_Pedestrian,0.15370599947405988,number_fatalities,1,Pedestrian
+"number_fatalities_1,road_user_Pedestrian",0.1491979413201097,number_fatalities,1,Pedestrian
+number_fatalities_2,0.1240279499605545,number_fatalities,2,Pedestrian
+road_user_Pedestrian,0.15370599947405988,number_fatalities,2,Pedestrian
+number_fatalities_3,0.03071114617378564,number_fatalities,3,Pedestrian
+road_user_Pedestrian,0.15370599947405988,number_fatalities,3,Pedestrian
+number_fatalities_4,0.011326496111799842,number_fatalities,4,Pedestrian
+road_user_Pedestrian,0.15370599947405988,number_fatalities,4,Pedestrian
+road_user_Pedestrian,0.15370599947405988,number_fatalities,5,Pedestrian
+road_user_Pedestrian,0.15370599947405988,number_fatalities,6,Pedestrian
+road_user_Pedestrian,0.15370599947405988,number_fatalities,10,Pedestrian
+road_user_Pedestrian,0.15370599947405988,number_fatalities,11,Pedestrian
+road_user_Pedestrian,0.15370599947405988,number_fatalities,7,Pedestrian
+road_user_Pedestrian,0.15370599947405988,number_fatalities,12,Pedestrian
+road_user_Pedestrian,0.15370599947405988,number_fatalities,35,Pedestrian
+road_user_Pedestrian,0.15370599947405988,number_fatalities,20,Pedestrian
+speed_limit_category_High (>80),0.48161087944701153,speed_limit_category,High (>80),Pedestrian
+road_user_Pedestrian,0.15370599947405988,speed_limit_category,High (>80),Pedestrian
+"road_user_Pedestrian,speed_limit_category_High (>80)",0.024418648333896842,speed_limit_category,High (>80),Pedestrian
+speed_limit_category_Medium (51-80),0.4228182876892445,speed_limit_category,Medium (51-80),Pedestrian
+road_user_Pedestrian,0.15370599947405988,speed_limit_category,Medium (51-80),Pedestrian
+"road_user_Pedestrian,speed_limit_category_Medium (51-80)",0.10139374131259626,speed_limit_category,Medium (51-80),Pedestrian
+speed_limit_category_Low (≤50),0.06998760284007664,speed_limit_category,Low (≤50),Pedestrian
+road_user_Pedestrian,0.15370599947405988,speed_limit_category,Low (≤50),Pedestrian
+"road_user_Pedestrian,speed_limit_category_Low (≤50)",0.02381757391337015,speed_limit_category,Low (≤50),Pedestrian
+speed_limit_category_Undetermined,0.025583230023667306,speed_limit_category,Undetermined,Pedestrian
+road_user_Pedestrian,0.15370599947405988,speed_limit_category,Undetermined,Pedestrian
+gender_Male,0.719129193433262,gender,Male,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,gender,Male,Pedal cyclist
+"gender_Male,road_user_Pedal cyclist",0.02396784251850182,gender,Male,Pedal cyclist
+gender_Female,0.28026973214621137,gender,Female,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,gender,Female,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,gender,Undetermined,Pedal cyclist
+age_group_65_to_74,0.07834629400052594,age_group,65_to_74,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,age_group,65_to_74,Pedal cyclist
+age_group_17_to_25,0.2555693301776926,age_group,17_to_25,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,age_group,17_to_25,Pedal cyclist
+age_group_26_to_39,0.23175175626432248,age_group,26_to_39,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,age_group,26_to_39,Pedal cyclist
+age_group_40_to_64,0.2590818588226455,age_group,40_to_64,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,age_group,40_to_64,Pedal cyclist
+age_group_75_or_older,0.0985762049663774,age_group,75_or_older,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,age_group,75_or_older,Pedal cyclist
+age_group_0_to_16,0.07475863105300726,age_group,0_to_16,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,age_group,0_to_16,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,age_group,Undetermined,Pedal cyclist
+day_of_week_Weekday,0.5881888876366506,day_of_week,Weekday,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,day_of_week,Weekday,Pedal cyclist
+"day_of_week_Weekday,road_user_Pedal cyclist",0.018689657763251814,day_of_week,Weekday,Pedal cyclist
+day_of_week_Weekend,0.411585709455652,day_of_week,Weekend,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,day_of_week,Weekend,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,day_of_week,Unknown,Pedal cyclist
+time_of_day_Night,0.4287538975919456,time_of_day,Night,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,time_of_day,Night,Pedal cyclist
+time_of_day_Day,0.5704384086554717,time_of_day,Day,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,time_of_day,Day,Pedal cyclist
+"road_user_Pedal cyclist,time_of_day_Day",0.020549231751756266,time_of_day,Day,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,time_of_day,Unknown,Pedal cyclist
+bus_involvement_No,0.9801269769713362,bus_involvement,No,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,bus_involvement,No,Pedal cyclist
+"bus_involvement_No,road_user_Pedal cyclist",0.02671024456215485,bus_involvement,No,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,bus_involvement,Undetermined,Pedal cyclist
+bus_involvement_Yes,0.018595739885044517,bus_involvement,Yes,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,bus_involvement,Yes,Pedal cyclist
+heavy_rigid_truck_involvement_No,0.6261880611593222,heavy_rigid_truck_involvement,No,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,heavy_rigid_truck_involvement,No,Pedal cyclist
+"heavy_rigid_truck_involvement_No,road_user_Pedal cyclist",0.016773733047822984,heavy_rigid_truck_involvement,No,Pedal cyclist
+heavy_rigid_truck_involvement_Undetermined,0.33864908523986625,heavy_rigid_truck_involvement,Undetermined,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,heavy_rigid_truck_involvement,Undetermined,Pedal cyclist
+heavy_rigid_truck_involvement_Yes,0.03516285360081145,heavy_rigid_truck_involvement,Yes,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,heavy_rigid_truck_involvement,Yes,Pedal cyclist
+articulated_truck_involvement_No,0.8997708403771743,articulated_truck_involvement,No,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,articulated_truck_involvement,No,Pedal cyclist
+"articulated_truck_involvement_No,road_user_Pedal cyclist",0.025432961418535634,articulated_truck_involvement,No,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,articulated_truck_involvement,Undetermined,Pedal cyclist
+articulated_truck_involvement_Yes,0.09906457793305534,articulated_truck_involvement,Yes,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,articulated_truck_involvement,Yes,Pedal cyclist
+national_road_type_Arterial Road,0.04695893910364777,national_road_type,Arterial Road,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,national_road_type,Arterial Road,Pedal cyclist
+national_road_type_Local Road,0.04188737368045381,national_road_type,Local Road,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,national_road_type,Local Road,Pedal cyclist
+national_road_type_National or State Highway,0.05924339757316203,national_road_type,National or State Highway,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,national_road_type,National or State Highway,Pedal cyclist
+national_road_type_Undetermined,0.7994101957248582,national_road_type,Undetermined,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,national_road_type,Undetermined,Pedal cyclist
+"national_road_type_Undetermined,road_user_Pedal cyclist",0.021413276231263382,national_road_type,Undetermined,Pedal cyclist
+national_road_type_Sub-arterial Road,0.033810436154626394,national_road_type,Sub-arterial Road,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,national_road_type,Sub-arterial Road,Pedal cyclist
+national_road_type_Collector Road,0.015515233479845224,national_road_type,Collector Road,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,national_road_type,Collector Road,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,national_road_type,Pedestrian Thoroughfare,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,national_road_type,Access road,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,national_road_type,Busway,Pedal cyclist
+crash_type_Single,0.5575340921897892,crash_type,Single,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,crash_type,Single,Pedal cyclist
+crash_type_Multiple,0.4424659078102108,crash_type,Multiple,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,crash_type,Multiple,Pedal cyclist
+"crash_type_Multiple,road_user_Pedal cyclist",0.023310417371050753,crash_type,Multiple,Pedal cyclist
+christmas_period_Yes,0.031462489199444006,christmas_period,Yes,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,christmas_period,Yes,Pedal cyclist
+christmas_period_No,0.968537510800556,christmas_period,No,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,christmas_period,No,Pedal cyclist
+"christmas_period_No,road_user_Pedal cyclist",0.02674781171343777,christmas_period,No,Pedal cyclist
+easter_period_No,0.99382020361396,easter_period,No,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,easter_period,No,Pedal cyclist
+"easter_period_No,road_user_Pedal cyclist",0.027461587587813217,easter_period,No,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,easter_period,Yes,Pedal cyclist
+state_NSW,0.30566512641346405,state,NSW,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,state,NSW,Pedal cyclist
+state_Tas,0.0299034524212029,state,Tas,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,state,Tas,Pedal cyclist
+state_Vic,0.21439573237161427,state,Vic,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,state,Vic,Pedal cyclist
+state_Qld,0.20352004207520943,state,Qld,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,state,Qld,Pedal cyclist
+state_SA,0.0857094556519779,state,SA,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,state,SA,Pedal cyclist
+state_WA,0.12064690634509186,state,WA,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,state,WA,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,state,ACT,Pedal cyclist
+state_NT,0.03116195198918066,state,NT,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,state,NT,Pedal cyclist
+national_remoteness_areas_Inner Regional Australia,0.0683534317592697,national_remoteness_areas,Inner Regional Australia,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,national_remoteness_areas,Inner Regional Australia,Pedal cyclist
+national_remoteness_areas_Outer Regional Australia,0.04740974491904279,national_remoteness_areas,Outer Regional Australia,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,national_remoteness_areas,Outer Regional Australia,Pedal cyclist
+national_remoteness_areas_Unknown,0.7933243172170255,national_remoteness_areas,Unknown,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,national_remoteness_areas,Unknown,Pedal cyclist
+"national_remoteness_areas_Unknown,road_user_Pedal cyclist",0.021225440474848794,national_remoteness_areas,Unknown,Pedal cyclist
+national_remoteness_areas_Major Cities of Australia,0.07186596040422255,national_remoteness_areas,Major Cities of Australia,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,national_remoteness_areas,Major Cities of Australia,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,national_remoteness_areas,Very Remote Australia,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,national_remoteness_areas,Remote Australia,Pedal cyclist
+number_fatalities_1,0.8261580074382959,number_fatalities,1,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,number_fatalities,1,Pedal cyclist
+"number_fatalities_1,road_user_Pedal cyclist",0.027236184680115707,number_fatalities,1,Pedal cyclist
+number_fatalities_2,0.1240279499605545,number_fatalities,2,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,number_fatalities,2,Pedal cyclist
+number_fatalities_3,0.03071114617378564,number_fatalities,3,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,number_fatalities,3,Pedal cyclist
+number_fatalities_4,0.011326496111799842,number_fatalities,4,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,number_fatalities,4,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,number_fatalities,5,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,number_fatalities,6,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,number_fatalities,10,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,number_fatalities,11,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,number_fatalities,7,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,number_fatalities,12,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,number_fatalities,35,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,number_fatalities,20,Pedal cyclist
+speed_limit_category_High (>80),0.48161087944701153,speed_limit_category,High (>80),Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,speed_limit_category,High (>80),Pedal cyclist
+speed_limit_category_Medium (51-80),0.4228182876892445,speed_limit_category,Medium (51-80),Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,speed_limit_category,Medium (51-80),Pedal cyclist
+"road_user_Pedal cyclist,speed_limit_category_Medium (51-80)",0.01602239002216462,speed_limit_category,Medium (51-80),Pedal cyclist
+speed_limit_category_Low (≤50),0.06998760284007664,speed_limit_category,Low (≤50),Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,speed_limit_category,Low (≤50),Pedal cyclist
+speed_limit_category_Undetermined,0.025583230023667306,speed_limit_category,Undetermined,Pedal cyclist
+road_user_Pedal cyclist,0.02763063976858635,speed_limit_category,Undetermined,Pedal cyclist
+gender_Male,0.719129193433262,gender,Male,Motorcycle pillion passenger
+gender_Female,0.28026973214621137,gender,Female,Motorcycle pillion passenger
+itemsets,support,feature,value,target
+age_group_65_to_74,0.07834629400052594,age_group,65_to_74,Motorcycle pillion passenger
+age_group_17_to_25,0.2555693301776926,age_group,17_to_25,Motorcycle pillion passenger
+age_group_26_to_39,0.23175175626432248,age_group,26_to_39,Motorcycle pillion passenger
+age_group_40_to_64,0.2590818588226455,age_group,40_to_64,Motorcycle pillion passenger
+age_group_75_or_older,0.0985762049663774,age_group,75_or_older,Motorcycle pillion passenger
+age_group_0_to_16,0.07475863105300726,age_group,0_to_16,Motorcycle pillion passenger
+itemsets,support,feature,value,target
+day_of_week_Weekday,0.5881888876366506,day_of_week,Weekday,Motorcycle pillion passenger
+day_of_week_Weekend,0.411585709455652,day_of_week,Weekend,Motorcycle pillion passenger
+itemsets,support,feature,value,target
+time_of_day_Night,0.4287538975919456,time_of_day,Night,Motorcycle pillion passenger
+time_of_day_Day,0.5704384086554717,time_of_day,Day,Motorcycle pillion passenger
+itemsets,support,feature,value,target
+bus_involvement_No,0.9801269769713362,bus_involvement,No,Motorcycle pillion passenger
+itemsets,support,feature,value,target
+bus_involvement_Yes,0.018595739885044517,bus_involvement,Yes,Motorcycle pillion passenger
+heavy_rigid_truck_involvement_No,0.6261880611593222,heavy_rigid_truck_involvement,No,Motorcycle pillion passenger
+heavy_rigid_truck_involvement_Undetermined,0.33864908523986625,heavy_rigid_truck_involvement,Undetermined,Motorcycle pillion passenger
+heavy_rigid_truck_involvement_Yes,0.03516285360081145,heavy_rigid_truck_involvement,Yes,Motorcycle pillion passenger
+articulated_truck_involvement_No,0.8997708403771743,articulated_truck_involvement,No,Motorcycle pillion passenger
+itemsets,support,feature,value,target
+articulated_truck_involvement_Yes,0.09906457793305534,articulated_truck_involvement,Yes,Motorcycle pillion passenger
+national_road_type_Arterial Road,0.04695893910364777,national_road_type,Arterial Road,Motorcycle pillion passenger
+national_road_type_Local Road,0.04188737368045381,national_road_type,Local Road,Motorcycle pillion passenger
+national_road_type_National or State Highway,0.05924339757316203,national_road_type,National or State Highway,Motorcycle pillion passenger
+national_road_type_Undetermined,0.7994101957248582,national_road_type,Undetermined,Motorcycle pillion passenger
+national_road_type_Sub-arterial Road,0.033810436154626394,national_road_type,Sub-arterial Road,Motorcycle pillion passenger
+national_road_type_Collector Road,0.015515233479845224,national_road_type,Collector Road,Motorcycle pillion passenger
+itemsets,support,feature,value,target
+itemsets,support,feature,value,target
+itemsets,support,feature,value,target
+crash_type_Single,0.5575340921897892,crash_type,Single,Motorcycle pillion passenger
+crash_type_Multiple,0.4424659078102108,crash_type,Multiple,Motorcycle pillion passenger
+christmas_period_Yes,0.031462489199444006,christmas_period,Yes,Motorcycle pillion passenger
+christmas_period_No,0.968537510800556,christmas_period,No,Motorcycle pillion passenger
+easter_period_No,0.99382020361396,easter_period,No,Motorcycle pillion passenger
+itemsets,support,feature,value,target
+state_NSW,0.30566512641346405,state,NSW,Motorcycle pillion passenger
+state_Tas,0.0299034524212029,state,Tas,Motorcycle pillion passenger
+state_Vic,0.21439573237161427,state,Vic,Motorcycle pillion passenger
+state_Qld,0.20352004207520943,state,Qld,Motorcycle pillion passenger
+state_SA,0.0857094556519779,state,SA,Motorcycle pillion passenger
+state_WA,0.12064690634509186,state,WA,Motorcycle pillion passenger
+itemsets,support,feature,value,target
+state_NT,0.03116195198918066,state,NT,Motorcycle pillion passenger
+national_remoteness_areas_Inner Regional Australia,0.0683534317592697,national_remoteness_areas,Inner Regional Australia,Motorcycle pillion passenger
+national_remoteness_areas_Outer Regional Australia,0.04740974491904279,national_remoteness_areas,Outer Regional Australia,Motorcycle pillion passenger
+national_remoteness_areas_Unknown,0.7933243172170255,national_remoteness_areas,Unknown,Motorcycle pillion passenger
+national_remoteness_areas_Major Cities of Australia,0.07186596040422255,national_remoteness_areas,Major Cities of Australia,Motorcycle pillion passenger
+itemsets,support,feature,value,target
+itemsets,support,feature,value,target
+number_fatalities_1,0.8261580074382959,number_fatalities,1,Motorcycle pillion passenger
+number_fatalities_2,0.1240279499605545,number_fatalities,2,Motorcycle pillion passenger
+number_fatalities_3,0.03071114617378564,number_fatalities,3,Motorcycle pillion passenger
+number_fatalities_4,0.011326496111799842,number_fatalities,4,Motorcycle pillion passenger
+itemsets,support,feature,value,target
+itemsets,support,feature,value,target
+itemsets,support,feature,value,target
+itemsets,support,feature,value,target
+itemsets,support,feature,value,target
+itemsets,support,feature,value,target
+itemsets,support,feature,value,target
+itemsets,support,feature,value,target
+speed_limit_category_High (>80),0.48161087944701153,speed_limit_category,High (>80),Motorcycle pillion passenger
+speed_limit_category_Medium (51-80),0.4228182876892445,speed_limit_category,Medium (51-80),Motorcycle pillion passenger
+speed_limit_category_Low (≤50),0.06998760284007664,speed_limit_category,Low (≤50),Motorcycle pillion passenger
+speed_limit_category_Undetermined,0.025583230023667306,speed_limit_category,Undetermined,Motorcycle pillion passenger
